@@ -1,0 +1,93 @@
+[
+    {
+        "id": 11,
+        "ordered_date": "27-01-2024",
+        "ordered_time": "21:13",
+        "total": 244,
+        "ordered_products": [
+            {
+                "name": "Crispy Veg Burger",
+                "price": 70,
+                "food_type":"Veg",
+                "quantity": 1,
+                "image_url": "/Burgers/Crispy Veg Burger.png"
+            },
+            {
+                "name": "Vanilla Chocolate Muffin",
+                "price": 129,
+                "food_type":"Veg",
+                "quantity": 2,
+                "image_url": "/Desserts/Vanilla Chocolate Muffin.png"
+            }
+        ],
+        "delivery_charge": 30,
+        "gst": 15,
+        "promo_code": null,
+        "address":"33/10 B, Rainbow Indl Estate, Opp Seepz ;midc Rd No 23, Andheri (west) Mumbai - 400069",
+        "order_status":"In-progress",
+        "rated":false,
+        "paid_via":"Phone pay",
+        "orderID":"#1652533" 
+    },
+    {
+        "id": 22,
+        "ordered_date": "27-01-2024",
+        "ordered_time": "04:13",
+        "total": 274,
+        "ordered_products": [
+            {
+                "name": "Chicken Makhani Burst Burger",
+                "price": 100,
+                "food_type":"Non-veg",
+                "quantity": 1,
+                "image_url": "/Burgers/Crispy Veg Burger.png"
+            },
+            {
+                "name": "Cheesy Fries",
+                "price": 129,
+                "food_type":"Veg",
+                "quantity": 1,
+                "image_url": "/Burgers/Crispy Veg Burger.png"
+            }
+        ],
+        "delivery_charge": 30,
+        "gst": 15,
+        "promo_code": "",
+        "address":"33/10 B, Rainbow Indl Estate, Opp Seepz ;midc Rd No 23, Andheri (west) Mumbai - 400069",
+        "order_status":"Delivered",
+        "rated":false,
+        "paid_via":"Google pay",
+        "orderID":"#252524" 
+    },
+    {
+        "id": 33,
+        "ordered_date": "27-01-2024",
+        "ordered_time": "21:13",
+        "total": 333,
+        "ordered_products": [
+            {
+                "name": "BK Veggie Double Patty Burger",
+                "price": 159,
+                "food_type":"Veg",
+                "quantity": 1,
+                "image_url": "/Burgers/Crispy Veg Burger.png"
+            },
+            {
+                "name": "Vanilla Chocolate Muffin",
+                "price": 129,
+                "food_type":"Veg",
+                "quantity": 2,
+                
+                "image_url": "/Burgers/Crispy Veg Burger.png"
+            }
+        ],
+        "delivery_charge": 30,
+        "gst": 15,
+        "promo_code": "GET30OFF",
+        "address":"33/10 B, Rainbow Indl Estate, Opp Seepz ;midc Rd No 23, Andheri (west) Mumbai - 400069",
+        "order_status":"Cancelled",
+        "rated":true,
+        "paid_via":"Credit Card",
+        "orderID":"#5523412" 
+    }
+]

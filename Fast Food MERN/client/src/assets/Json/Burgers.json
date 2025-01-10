@@ -1,0 +1,824 @@
+[ 
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our best-selling burger with crispy veg patty, fresh onion and our signature sauce.",
+        "entity_id": "P::1805722",
+        "food_type": "veg",
+        "id": "0efdf5794aec496c9df685c20f60da9b",
+        "image_url": "/Burgers/Crispy Veg Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Crispy Veg Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2126752",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 70,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Double up our best selling crispy veg burger",
+        "entity_id": "P::1665189",
+        "food_type": "veg",
+        "id": "ef343d850f63414daca72b46db545797",
+        "image_url": "/Burgers/Crispy Veg Double Patty Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Crispy Veg Double Patty Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1961371",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 99,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our tribute to classic American taste. The new BK Chicken now has 50%* More Chicken. Enjoy this burger in a Crunchy Chicken patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce.",
+        "entity_id": "P::1846085",
+        "food_type": "nonveg",
+        "id": "889b846f12f345418a96779c25851cc3",
+        "image_url": "/Burgers/BK Chicken Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "BK Chicken Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2174300",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 149,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Enjoy rich makhani flavour with mix veg patty topped up with fresh onion",
+        "entity_id": "P::1684290",
+        "food_type": "veg",
+        "id": "34c25f3ae58f49f6bdf2c6cf644e8057",
+        "image_url": "/Burgers/Veg Makhani Burst Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Veg Makhani Burst Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1983973",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 80,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our signature Whopper with 7 layers between the buns in a convenient size. Extra crunchy veg Patty, fresh onion, crispy lettuce, juicy tomatoes(seasonal), tangy gherkins, creamy and smoky sauces.",
+        "entity_id": "P::1600579",
+        "food_type": "veg",
+        "id": "45110464a2bf4ae9a99cf70b2098dfbb",
+        "image_url": "/Burgers/Whopper Jr Veg.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Whopper Jr Veg",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1883973",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 149,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Double up the crispy chicken patty burger.",
+        "entity_id": "P::1665188",
+        "food_type": "nonveg",
+        "id": "3a56a1287e3e45e0a08e623debf47718",
+        "image_url": "/Burgers/Crispy Chicken Double Patty Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Crispy Chicken Double Patty Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1961370",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 139,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our Tribute To Classic American Taste. Bk Chicken Double Patty, Garden Fresh Crispy Lettuce, Juicy Tomato(seasonal) & Our Signature Sauce",
+        "entity_id": "P::1846092",
+        "food_type": "nonveg",
+        "id": "c3dfccc02fae4a62920e520fa771db6d",
+        "image_url": "/Burgers/BK Chicken Double Patty Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "BK Chicken Double Patty Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2174307",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 179,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our tribute to classic american taste. BK veg patty, garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce.",
+        "entity_id": "P::1846084",
+        "food_type": "veg",
+        "id": "93f15ccb314d4bcc9e60a8955b452252",
+        "image_url": "/Burgers/BK Veggie Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "BK Veggie Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2174299",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 139,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our Tribute To Classic American Taste. Bk Veg Double Patty, Garden Fresh Crispy Lettuce, Juicy Tomato(seasonal) & Our Signature Sauce",
+        "entity_id": "P::1846093",
+        "food_type": "veg",
+        "id": "06a31c60b63d40f3bd6707cc6f32dcc2",
+        "image_url": "/Burgers/BK Veggie Double Patty Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "BK Veggie Double Patty Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2174308",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 159,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Enjoy rich makhani flavour with crispy chicken patty topped with fresh onion",
+        "entity_id": "P::1684294",
+        "food_type": "nonveg",
+        "id": "19535ed0d4984bfdbdd35c060bdbc47e",
+        "image_url": "/Burgers/Chicken Makhani Burst Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Chicken Makhani Burst Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1983977",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 100,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our tribute to classic american taste. BK veg patty with cheese slice ,garden fresh crispy lettuce, juicy tomato(seasonal) & our signature sauce.",
+        "entity_id": "P::1846086",
+        "food_type": "veg",
+        "id": "f603d3ada5cf48279848f27d41bec4ff",
+        "image_url": "/Burgers/BK Veggie Burger with Cheese.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "BK Veggie Burger with Cheese",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2174301",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 154,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Crispy chicken patty burger, our best seller.",
+        "entity_id": "P::1467334",
+        "food_type": "nonveg",
+        "id": "2976c9d6cd744b74afb1c147d6f3126b",
+        "image_url": "/Burgers/Crispy Chicken Burger.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Crispy Chicken Burger",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/CrispyChicken.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/CrispyChicken.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728730",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 99,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our tribute to classic American taste. BK chicken patty, garden fresh crispy lettuce, juicy tomato (seasonal), cheese slice & our signature sauce.",
+        "entity_id": "P::1846087",
+        "food_type": "nonveg",
+        "id": "cc9afc86b86f402fbb2afe9c6b978a76",
+        "image_url": "/Burgers/BK Chicken Burger with Cheese.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "BK Chicken Burger with Cheese",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2174302",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 164,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our signature Whopper with 7 layers between the buns in a convenient size. Extra crunchy veg patty, cheese slice, fresh onion, crispy lettuce, juicy tomatoes (seasonal), tangy gherkins, creamy and smoky sauces.",
+        "entity_id": "P::1712608",
+        "food_type": "veg",
+        "id": "6c12366d6663486fb1a14fab2add19b9",
+        "image_url": "/Burgers/Whopper Jr Veg with Cheese.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Whopper Jr Veg with Cheese",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2017524",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 174,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our best-selling burger with cheese slice, crispy chicken patty, onion and our signature sauce.",
+        "entity_id": "P::1745363",
+        "food_type": "nonveg",
+        "id": "42ed6dd511ea4849994f8bd14e148b47",
+        "image_url": "/Burgers/Crispy Chicken Burger with Cheese.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Crispy Chicken Burger with Cheese",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2055726",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 124,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    }
+]

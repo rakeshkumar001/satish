@@ -1,0 +1,232 @@
+[
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Burgers & Wraps",
+        "description": "Our signature Whopper with 7 layers between the buns in a convenient size. Extra crunchy veg patty, cheese slice, fresh onion, crispy lettuce, juicy tomatoes (seasonal), tangy gherkins, creamy and smoky sauces.",
+        "entity_id": "P::1712608",
+        "food_type": "veg",
+        "id": "6c12366d6663486fb1a14fab2add19b9",
+        "image_url": "/Burgers/Whopper Jr Veg with Cheese.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Whopper Jr Veg with Cheese",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2017524",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 174,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1,
+        "favourite":true
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "New Softer and Fluffier buttery vanilla cake topped with chocolate chips.",
+        "entity_id": "P::1871085",
+        "food_type": "nonveg",
+        "id": "a57151ed10bd450299c61d958d456cf5",
+        "image_url": "/Desserts/Vanilla_Chocolate_Muffin.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Vanilla Chocolate Muffin",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2203619",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 129,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1,
+        "favourite":true
+
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "The lip-smacking duo of creamy classic mayo and tangy tomato(seasonal) herb mayo make these fries very hard to resist!",
+        "entity_id": "P::1467340",
+        "food_type": "veg",
+        "id": "8a260b34635f4cdca58c5b09b65dd52a",
+        "image_url": "/Sides/Creamy Italian Fries.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Creamy Italian Fries",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/CreamyItalianFries.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/CreamyItalianFries.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728736",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 139,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1,
+        "favourite":true
+
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": "Our signature chocolate thick shake.",
+        "entity_id": "P::1467236",
+        "food_type": "veg",
+        "id": "27da58f4cfc84bca9fcacc9fa70346bd",
+        "image_url": "/Beverages/Chocolate Thick Shake.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Chocolate Thick Shake",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/ChocolateThickShake",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/ChocolateThickShake",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728627",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 189,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1,
+        "favourite":true
+
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Airy and creamy chocolate mousse topped with chocolate ganache and choco chips",
+        "entity_id": "P::1755154",
+        "food_type": "veg",
+        "id": "1b95142723b04a31a14c60b60b208c31",
+        "image_url": "/Desserts/Chocolate Mousse Cup.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Chocolate Mousse Cup",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066932",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 109,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Melty Chocolate filled in cupcake",
+        "entity_id": "P::1776777",
+        "food_type": "veg",
+        "id": "4274d44864f441b1937defbe8d13531d",
+        "image_url": "/Desserts/Choco Lava Cup.png",
+        "image_urls": [
+            {
+                "category": "plp",
+                "images": [
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20220330140836836910_164x90jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20220330140834947274_328x180jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20220330140838527662_492x270jpg"
+                        },
+                        "name": "mobile_sm"
+                    },
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20220330140832970892_213x117jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20220330140831018690_426x234jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20220330140832090655_639x351jpg"
+                        },
+                        "name": "mobile_lg"
+                    },
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20220330140830386824_241x132jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20220330140833283827_482x264jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20220330140834653880_723x396jpg"
+                        },
+                        "name": "desktop"
+                    }
+                ]
+            }
+        ],
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Choco Lava Cup",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2093055",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 109,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "New Softer and Fluffier buttery vanilla cake topped with chocolate chips.",
+        "entity_id": "P::1871085",
+        "food_type": "nonveg",
+        "id": "a57151ed10bd450299c61d958d456cf5",
+        "image_url": "/Desserts/Vanilla Chocolate Muffin.png",
+        "image_urls": [
+            {
+                "category": "plp",
+                "images": [
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20231109061652108770_164x90jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20231109061651295857_328x180jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20231109061655332485_492x270jpg"
+                        },
+                        "name": "mobile_sm"
+                    },
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20231109061651845345_213x117jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20231109061653625525_426x234jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20231109061651356968_639x351jpg"
+                        },
+                        "name": "mobile_lg"
+                    },
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20231109061656318591_241x132jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20231109061653927784_482x264jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20231109061652472572_723x396jpg"
+                        },
+                        "name": "desktop"
+                    }
+                ]
+            }
+        ],
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Vanilla Chocolate Muffin",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2203619",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 129,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "New Softer and Fluffier chocolate cake topped with chocolate chips.",
+        "entity_id": "P::1871087",
+        "food_type": "nonveg",
+        "id": "16fa8041d2fb45518ca1698ce9824d14",
+        "image_url": "/Desserts/Choco Chip Muffin.png",
+        "image_urls": [
+            {
+                "category": "plp",
+                "images": [
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/1x_ms_20231109061531915363_164x90jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/2x_ms_20231109061530886459_328x180jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ms/3x_ms_20231109061534673906_492x270jpg"
+                        },
+                        "name": "mobile_sm"
+                    },
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/1x_ml_20231109061531598361_213x117jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/2x_ml_20231109061533724363_426x234jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/ml/3x_ml_20231109061530957962_639x351jpg"
+                        },
+                        "name": "mobile_lg"
+                    },
+                    {
+                        "image": {
+                            "1x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/1x_web_20231109061535140503_241x132jpg",
+                            "2x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/2x_web_20231109061533897276_482x264jpg",
+                            "3x": "https://d1rgpf387mknul.cloudfront.net/products/PLP/web/3x_web_20231109061532163072_723x396jpg"
+                        },
+                        "name": "desktop"
+                    }
+                ]
+            }
+        ],
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Choco Chip Muffin",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2203621",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 139,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    }
+]

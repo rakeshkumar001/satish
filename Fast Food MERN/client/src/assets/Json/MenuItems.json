@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "redirectLink": "home",
+        "_iconName": "menu",
+        "text": "Menu"
+    },
+    {
+        "id": 2,
+        "redirectLink": "favourites",
+        "_iconName": "favourite",
+        "text": "Favourites"
+    },
+    {
+        "id": 3,
+        "redirectLink": "order_history",
+        "_iconName": "history",
+        "text": "History"
+    },
+    {
+        "id": 4,
+        "redirectLink": "contact",
+        "_iconName": "contact",
+        "text": "Contact"
+    },
+  
+    {
+        "id": 5,
+        "redirectLink": "login",
+        "_iconName": "logout",
+        "text": "Logout"
+    }
+]

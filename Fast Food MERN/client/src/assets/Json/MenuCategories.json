@@ -1,0 +1,62 @@
+[
+    {
+        "description": null,
+        "discount_type": "",
+        "discount_value": "",
+        "display_order": 6,
+        "fixed_product_price": "",
+        "id": "5440bf9810bd44609960e55324f8ceb3",
+        "image_url": "https://d1rgpf387mknul.cloudfront.net/category/Home/ms/1x_ms_20230510052712440697_72x64png",
+        "name": "Burgers",
+        "parent_category_id": "0",
+        "vendor_entity_id": "C::224986"
+    },
+    {
+        "description": null,
+        "discount_type": "VALUE",
+        "discount_value": 0.0,
+        "display_order": 7,
+        "fixed_product_price": 100.0,
+        "id": "623c833df02c44ffaccb8302b01bf5bb",
+        "image_url": "https://d1rgpf387mknul.cloudfront.net/category/Home/ms/1x_ms_20210427112037389422_72x64png",
+        "name": "Sides",
+        "parent_category_id": "0",
+        "vendor_entity_id": "C::221851"
+    },
+    {
+        "description": null,
+        "discount_type": "",
+        "discount_value": "",
+        "display_order": 8,
+        "fixed_product_price": "",
+        "id": "eb4a16d33e37441f92474c348cbdc866",
+        "image_url": "https://d1rgpf387mknul.cloudfront.net/category/Home/ms/1x_ms_20240103054719731963_72x64png",
+        "name": "Beverages",
+        "parent_category_id": "0",
+        "vendor_entity_id": "C::221854"
+    },
+    {
+        "description": null,
+        "discount_type": "",
+        "discount_value": "",
+        "display_order": 10,
+        "fixed_product_price": "",
+        "id": "27c82a2624774a2aabc7d14703816f10",
+        "image_url": "https://radiustheme.com/demo/wordpress/themes/panpie/wp-content/uploads/2021/11/banner_06_icon4.png",
+        "name": "Desserts",
+        "parent_category_id": "0",
+        "vendor_entity_id": "C::221849"
+    },
+    {
+        "description": null,
+        "discount_type": "",
+        "discount_value": "",
+        "display_order": 12,
+        "fixed_product_price": "",
+        "id": "51ef1e237e954612b73a9fcf4c47b47c",
+        "image_url": "https://d1rgpf387mknul.cloudfront.net/category/Home/ms/1x_ms_20230323093838993299_72x64png",
+        "name": "Hot Cafe",
+        "parent_category_id": "0",
+        "vendor_entity_id": "C::263394"
+    }
+]
