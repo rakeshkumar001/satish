@@ -1,0 +1,17 @@
+.login_form{
+    padding: 30px;
+    margin: 0 auto;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    form{
+        max-width: 370px;
+        padding: 30px;
+        border-radius: 10px;
+        border-left: 5px solid #ffc107;
+        background-color: #fff;
+        background: #2196f375;
+        box-shadow: 25px 25px 15px -10px #ffc10775 !important;
+    }
+}

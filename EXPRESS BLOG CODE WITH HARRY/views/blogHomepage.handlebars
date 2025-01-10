@@ -1,0 +1,14 @@
+<div class="row" data-masonry='{"percentPosition": true }'>
+    {{#each allBlogs}}
+    <div class="col-sm-6 col-lg-3 mb-4 ">
+        <div class="card shadow bg-primary-subtle">
+            <div class="card-body">
+                <img src="./assets/images/cardBackground.jpg" class="card-img-top" alt="...">
+                <h5 class="card-title">{{this.title}}</h5>
+                <p class="card-text text-truncate">{{this.body}}</p>
+                <a href='blogpost/{{this.slug}}' class="btn btn-primary">View post &#8594;</a>
+            </div>
+        </div>
+    </div>
+    {{/each}}
+</div>

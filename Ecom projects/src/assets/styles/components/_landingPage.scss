@@ -1,0 +1,48 @@
+.landing_page {
+
+    h3 {
+        text-align: center;
+        color: #1769aa;
+        margin-bottom: 30px;
+    }
+
+    .features_list ,.samples{
+        margin: 50px 0;
+
+        .feature {
+            .image {
+                height: 150px;
+                width: 150px;
+                margin: 0 auto;
+                background-color: #35baf6;
+                border-radius: 50%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border: 5px solid #ffcd38;
+
+                svg {
+                    font-size: 50px;
+                    fill: #1769aa
+                }
+            }
+
+            .description {
+                p {
+                    text-align: center;
+
+                    &.title {
+                        font-weight: 600;
+                        color: #1769aa;
+                        margin: 30px 0;
+                        font-size: 20px;
+                    }
+                }
+            }
+        }
+        .card{
+margin-bottom: 30px;
+        }
+    }
+
+}

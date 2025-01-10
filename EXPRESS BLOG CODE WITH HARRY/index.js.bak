@@ -1,0 +1,48 @@
+const express = require('express')
+const app = express()
+const path = require('path')
+
+const port = 3000
+
+// Express MIDDLEWARE are the inbuilt function that gives 2 arguments RESPONSE and REQUEST, which basically help to manipulate the both accordingly
+
+// way to create middleware
+//******************************************************* */
+// const rakesh = (req, res, next) => {
+//     console.log(req)
+//     next()  // to run the next middleware immediately after this 
+// }
+
+app.use(express.static(path.join(__dirname, 'public')))
+// app.use(rakesh)      //using the custom middleware
+
+//******************************************************* */
+
+app.get('/text', (req, res) => {
+    res.send('Default text from express!')  // basic way to return text 
+})
+//******************************************************* */
+app.get('/json', (req, res) => {
+    // res.send('JSON PAGE!')
+    res.send({ "name": 'RAKESH' }, { "grade": "B2" }, { "designation": "Consultant" }, { "experience": '+' + 6 }) // basic way to return JSON object 
+})
+//******************************************************* */
+app.get('/homepage', (req, res) => {
+    res.sendFile(path.join(__dirname, 'index.html'))  // basic way to return a FILE ( like html page template) 
+    // res.status(500)
+})
+//******************************************************* */
+app.get('/static', (req, res) => {
+    res.sendFile(path.join(__dirname, 'index.html'))  // basic way to return a FOLDER ( like public folder) 
+})
+//******************************************************* */
+app.get('/blog', (req, res) => {
+    res.send('This will open all blogs')  // basic way to use the parameter / flag from url 
+})
+app.get('/blog/:id', (req, res) => {
+    res.send('This will open blog post with id:- ' + req.params.id)  // basic way to use the parameter / flag from url 
+})
+//******************************************************* */
+app.listen(port, () => {
+    console.log(`Example app listening on port ${port}`)
+})
