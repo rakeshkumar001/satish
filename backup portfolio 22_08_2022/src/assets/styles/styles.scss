@@ -1,0 +1,26 @@
+@import './loadingScreen';
+@import './variables';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: var(--font-size-b1);
+    line-height: var(--line-height-b1);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: var(--font-primary);
+    color: var(--color-body);
+    font-weight: var(--p-regular);
+background-color: #ecf0f3;
+}
+.App{
+    background: #ecf0f3;
+    height: 100vh;
+    width: 100vw;
+}
+.threeD_card {
+    box-shadow: 5px 5px 15px #D1D9E6, -5px -5px 15px #ffffff;
+}
+.bg-card{
+    background:  linear-gradient(145deg, #e2e8ec, #ffffff);
+}
