@@ -1,0 +1,66 @@
+Lab setup : Node 14.x , Visual studio code , chrome browser and open internet connection, Windows 11 with WSL
+
+ 
+
+Pre-requisite : Knowledge in ReactJS (18.x.x), React Server Side Components, TypeScript, HTML 5 , CSS3 & JavaScript (ECMA5), Any Database knowledge (Preferably MongoDB/MySQL)
+
+ 
+
+Day 1:
+
+Introducing NextJS
+Basic Setup and Features Overview
+App Router v/s Page Router
+Overview of the NextJS Topics
+Styling
+Layouts
+App Router
+Data fetching
+Data caching and mutation
+What is SSG, SSR, CSR and ISR?
+Server components
+Client components
+Route Params and Query data
+Assets optimization tips and features overview
+Architecture
+ 
+
+Day 2 :
+
+Local Setup and Installation
+NodeJS
+MongoDB / MySQL / SQLite
+Creating Server Side Components
+Page routing
+Layout and Server Pages
+Root Layouts and Nested Layout
+Static Routes
+Dynamic Routes
+Nested Routes
+Route Params
+Query Params
+Route Handler
+Assignment for evaluation
+ 
+
+Day 3:
+
+Styling Components
+CSS Modules
+Sass Based Styling
+Third Party CSS Supports (Tailwind CSS)
+Assets Optimization
+Images/Videos/Fonts etc
+Dynamic Imports
+Testing with JEST
+Setup
+Testing Components
+Assignment for evaluation
+ 
+
+Day 4 :
+
+Creating an application and learning re-assessment
+Assignment for Course Completion and Skill Competency Evaluation
+Questions and doubts clarifications
+Attendance
