@@ -1,0 +1,25 @@
+.splide__arrows {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    z-index: 12;
+    
+    .splide__arrow {
+        border: 2px solid #ffb524;
+        width: 40px;
+        border-radius: 50px;
+        position: relative;
+        svg{
+            fill:$grey;
+        }
+    }
+
+    .splide__arrow--prev {
+        top: 2px;
+    }
+
+    .splide__arrow--next {
+        right: -60px;
+        top: -30px;
+    }
+}

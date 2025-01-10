@@ -1,0 +1,7 @@
+DOCUMENTATION:-
+
+Template:-
+https://tailwindui.com/components/#product-application-ui
+
+Carousel / SLider
+https://splidejs.com/guides/getting-started/
