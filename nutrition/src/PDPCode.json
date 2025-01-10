@@ -1,0 +1,2477 @@
+[
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "142"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "374.88"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "34.7616"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "3.8624"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.568"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "616.848"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "71"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "5.8362"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "6.4752"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "14.342"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "19.7806"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "2.8826"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "167.56"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "3.0246"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "136.4"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "153.5864"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "27.8665"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "3.0963"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.0639"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.0273"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "96.844"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "402.38"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.8184"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.364"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "31.5084"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "60.016"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "5.456"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "10.7756"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.8184"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "757.02"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "0.2728"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "42.5"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "5.1"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "0.72"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.08"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.02"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "3.825"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.88"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.6"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.294"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.42"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "140.25"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.6"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "8.076"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.212"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "60"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "0"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "14.18"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "3.1"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "0.36"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.04"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "11.18"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.5"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.38"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.056"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.4"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "950"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "4"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "14.034"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.38"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "79"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "0"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "69.46"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "12.5"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "1.2"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.14"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.02"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "3.48"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "2.7"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.8372"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.826"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.612"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "578.66"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "8.82"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "6.875"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.18"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "164.62"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "0"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "28.4"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "4.26"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "0.28"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.036"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.0118"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.56"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.02"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.1418"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.4734"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.184"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "29.76"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.8"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "4"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.08"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "41.6"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "0"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "14.18"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "2.84"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "0.216"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.024"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.0008"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.42"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.66"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.24"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.34"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.122"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "52.44"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "11.4"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.418"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.048"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "24.8"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "0"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "14.18"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "5.3866"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "0.2"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.02"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.42"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.22"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.26"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.878"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.16"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "2.84"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.032"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "20.6"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "0"
+        }
+    ],
+    [
+        {
+            "name": "Serving Size",
+            "id": "1",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SERVING SIZE (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "61.6"
+        },
+        {
+            "name": "Energy (kcal)",
+            "id": "2",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALORIES",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "123.64"
+        },
+        {
+            "name": "",
+            "id": "3",
+            "translations": [],
+            "value": "7.92"
+        },
+        {
+            "name": "Total Fat (g)",
+            "id": "4",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "TOTAL FAT (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.88"
+        },
+        {
+            "name": "Saturated Fat (g)",
+            "id": "5",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Saturated Fat (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Trans Fat",
+            "id": "6",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Trans Fat* (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Cholesterol",
+            "id": "7",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CHOLESTEROL (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0"
+        },
+        {
+            "name": "Sodium (mg)",
+            "id": "8",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "SODIUM (mg)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "565.84"
+        },
+        {
+            "name": "Carbohydrates (g)",
+            "id": "9",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CARBOHYDRATES (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "29.92"
+        },
+        {
+            "name": "Dietary Fiber (g)",
+            "id": "10",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Dietary Fiber (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.44"
+        },
+        {
+            "name": "Sugars (g)",
+            "id": "11",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "Sugars (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "33"
+        },
+        {
+            "name": "Protein (g)",
+            "id": "12",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "PROTEIN (g)",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "26.4"
+        },
+        {
+            "name": "Vitamin A",
+            "id": "13",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN A % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "1.7402"
+        },
+        {
+            "name": "Vitamin C",
+            "id": "14",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "VITAMIN C % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.8699"
+        },
+        {
+            "name": "Calcium",
+            "id": "15",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "CALCIUM % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "13.7469"
+        },
+        {
+            "name": "Iron",
+            "id": "16",
+            "translations": [
+                {
+                    "culture": "en-US",
+                    "displayName": "IRON % DV",
+                    "displayDescription": null,
+                    "imageUrl": null,
+                    "productDescription": null,
+                    "images": [],
+                    "badges": null,
+                    "shortDescription": null
+                }
+            ],
+            "value": "0.5223"
+        },
+        {
+            "name": "",
+            "id": "30",
+            "translations": [],
+            "value": "0"
+        },
+        {
+            "name": "",
+            "id": "47",
+            "translations": [],
+            "value": "24.1529"
+        }
+    ]
+]

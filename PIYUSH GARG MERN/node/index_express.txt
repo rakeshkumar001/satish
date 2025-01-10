@@ -1,0 +1,104 @@
+const express = require('express')
+const users = require("./MOCK_DATA.json")
+const app = express();
+const fs = require('fs')
+
+//MIDDLEWARE PREDEFINED [ here for CONTENT type]
+app.use(express.urlencoded({ extended: false })) // to tell express the type of body will recieve
+// app.use(require('body-parser').urlencoded({ extended: false }));
+app.use(express.json())
+
+//MIDDLEWARE CUSTOM
+app.use((req, res, next) => {
+    console.log("Hello from middleware 1")
+    req.myUserName = "Rakesh"
+    // res.json({"msg":"Hello from middleware 1"})
+    next();
+})
+app.use((req, res, next) => {
+    console.log("Hello from middleware 2", req.myUserName)
+    // res.json({"msg":"Hello from middleware 2"})
+    fs.appendFile("log.txt", `TIME:- ${new Date().toLocaleString()} | METHOD:- ${req.method} |  PATH:- ${req.path} \n`, (err, data) => {
+        next();
+    })
+})
+
+app.get("/", (req, res) => {
+    res.send("Welcome to Homepage")
+})
+
+// using FLag/params from URL
+app.get("/about", (req, res) => {
+    res.send(`Hello, ${req.query.name}`)
+})
+
+// List all users (API)
+app.get("/api/users", (req, res) => {
+    console.log("from API ROUTE:", req.myUserName)
+    res.status(201).json(users)
+})
+
+// List all users (HTML)
+app.get("/users", (req, res) => {
+    const html = `<ul>${users.map((user) => `<li>${user.first_name}</li>`).join("")}</ul>`;
+    res.send(html)
+})
+
+//show speific user (DYNAMIC ROUTE)
+app.get("/api/users/:id", (req, res) => {
+    const id = Number(req.params.id);
+    const user = users.find((user) => user.id === id)
+    if (user) {
+        res.json(user)
+    }
+    else {
+        res.status(404).json({"msg":"user not found !!"})
+    }
+})
+
+// Add users (POST)
+app.post("/api/users", (req, res) => {
+    const body = req.body;
+    if (users.find((user) => user.email === body.email)) {
+        res.json({ "status": "Failed to update !!", "reason": "User already exist" })
+    }
+    else {
+        users.push({ id: users.length + 1, ...body });
+        fs.writeFile("./MOCK_DATA.json", JSON.stringify(users), (err, data) => {
+            res.json({ status: "successfully added !!", id: users.length })
+        })
+    }
+})
+
+// Edit specific users (PATCH)
+app.patch("/api/users/:id", (req, res) => {
+    const id = Number(req.params.id);
+    // const body = req.query; // to fetch the data from URL
+    const body = req.body;
+    const user = users.find((user) => user.id === id);
+    user.first_name = body.first_name;
+    users[id - 1] = user;
+    fs.writeFile("./MOCK_DATA.json", JSON.stringify(users), (err, data) => {
+        res.json({ status: "successfully updated !!", user })
+    })
+})
+
+// Delete users (DELETE)
+app.delete("/api/users/:id", (req, res) => {
+    const id = Number(req.params.id);
+    const user = users.find((user) => user.id === id);
+    users.splice(id - 1, 1)
+    fs.writeFile("./MOCK_DATA.json", JSON.stringify(users), (err, data) => {
+        res.json({ status: "successfully deleted !!", user })
+    })
+})
+
+// *******OR******************* ( COMMON ROUTE CAN BE COMBINED LIKE THIS)
+// app.route("/api/users/:id")
+//     .get((req, res) => { res.send("") })
+//     .post((req, res) => { })
+//     .delete((req, res) => { })
+//     .patch((req, res) => { })
+
+
+app.listen(8000, () => console.log("Server Started"))

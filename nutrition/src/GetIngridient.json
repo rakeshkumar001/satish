@@ -1,0 +1,492 @@
+{
+    "2": {
+        "roundingRuleId": "1",
+        "name": "Round Calories USA",
+        "nutritionFactId": "2",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 5,
+                "upperLimit": 50,
+                "roundToInt": 5
+            },
+            {
+                "roundToValue": 10,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 50,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 10
+            }
+        ]
+    },
+    "4": {
+        "roundingRuleId": "3",
+        "name": "Round Fat USA",
+        "nutritionFactId": "4",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 0.5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 0.5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0.5,
+                "upperLimit": 5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 1,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 1
+            }
+        ]
+    },
+    "5": {
+        "roundingRuleId": "3",
+        "name": "Round Fat USA",
+        "nutritionFactId": "5",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 0.5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 0.5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0.5,
+                "upperLimit": 5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 1,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 1
+            }
+        ]
+    },
+    "6": {
+        "roundingRuleId": "3",
+        "name": "Round Fat USA",
+        "nutritionFactId": "6",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 0.5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 0.5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0.5,
+                "upperLimit": 5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 1,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 1
+            }
+        ]
+    },
+    "7": {
+        "roundingRuleId": "5",
+        "name": "Round Cholesterol USA",
+        "nutritionFactId": "7",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 2,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 2,
+                "upperLimit": 5,
+                "roundToInt": 5
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 5
+            }
+        ]
+    },
+    "8": {
+        "roundingRuleId": "7",
+        "name": "Round Sodium USA",
+        "nutritionFactId": "8",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 5,
+                "upperLimit": 140,
+                "roundToInt": 5
+            },
+            {
+                "roundToValue": 10,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 140,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 10
+            }
+        ]
+    },
+    "9": {
+        "roundingRuleId": "9",
+        "name": "Round Carbs, Dietary Fiber, Sugar, Protein USA",
+        "nutritionFactId": "9",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 0.5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 1,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0.5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 1
+            }
+        ]
+    },
+    "10": {
+        "roundingRuleId": "9",
+        "name": "Round Carbs, Dietary Fiber, Sugar, Protein USA",
+        "nutritionFactId": "10",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 0.5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 1,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0.5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 1
+            }
+        ]
+    },
+    "11": {
+        "roundingRuleId": "9",
+        "name": "Round Carbs, Dietary Fiber, Sugar, Protein USA",
+        "nutritionFactId": "11",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 0.5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 1,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0.5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 1
+            }
+        ]
+    },
+    "12": {
+        "roundingRuleId": "9",
+        "name": "Round Carbs, Dietary Fiber, Sugar, Protein USA",
+        "nutritionFactId": "12",
+        "dvDivisor": 0,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 0.5,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 1,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0.5,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 1
+            }
+        ]
+    },
+    "13": {
+        "roundingRuleId": "11",
+        "name": "Round Vitamin A USA",
+        "nutritionFactId": "13",
+        "dvDivisor": 3000,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 2,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 2,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 2,
+                "upperLimit": 10,
+                "roundToInt": 2
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 10,
+                "upperLimit": 50,
+                "roundToInt": 5
+            },
+            {
+                "roundToValue": 10,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 50,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 10
+            }
+        ]
+    },
+    "14": {
+        "roundingRuleId": "13",
+        "name": "Round Vitamin C USA",
+        "nutritionFactId": "14",
+        "dvDivisor": 90,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 2,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 2,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 2,
+                "upperLimit": 10,
+                "roundToInt": 2
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 10,
+                "upperLimit": 50,
+                "roundToInt": 5
+            },
+            {
+                "roundToValue": 10,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 50,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 10
+            }
+        ]
+    },
+    "15": {
+        "roundingRuleId": "15",
+        "name": "Round Calcium USA",
+        "nutritionFactId": "15",
+        "dvDivisor": 1300,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 2,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 2,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 2,
+                "upperLimit": 10,
+                "roundToInt": 2
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 10,
+                "upperLimit": 50,
+                "roundToInt": 5
+            },
+            {
+                "roundToValue": 10,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 50,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 10
+            }
+        ]
+    },
+    "16": {
+        "roundingRuleId": "17",
+        "name": "Round Iron USA",
+        "nutritionFactId": "16",
+        "dvDivisor": 18,
+        "ranges": [
+            {
+                "roundToValue": 0,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 0,
+                "upperLimit": 2,
+                "roundToInt": 0
+            },
+            {
+                "roundToValue": 2,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 2,
+                "upperLimit": 10,
+                "roundToInt": 2
+            },
+            {
+                "roundToValue": 5,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 10,
+                "upperLimit": 50,
+                "roundToInt": 5
+            },
+            {
+                "roundToValue": 10,
+                "lowerLimitInclusive": true,
+                "upperLimitInclusive": false,
+                "midpointRoundingAwayFromZero": true,
+                "lowerLimit": 50,
+                "upperLimit": 7.922816251426434e+28,
+                "roundToInt": 10
+            }
+        ]
+    }
+}
