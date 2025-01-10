@@ -1,0 +1,35 @@
+:root {
+  --text: #222;
+  --black: #000;
+  --white: #fff;
+  --grey: #4b5563;
+  --blue: #5e9ed6;
+  --yellow: #f2b700;
+  --backgroundColor1: #aaa;
+  --backgroundColor2: #00491e;
+  --backgroundColor3: #008938;
+  --backgroundColor4: #f2b700;
+  --backgroundColor5: rgba(0, 0, 0, 0.5);
+  --backgroundModal: #ffffff;
+
+  /* Skeleton */
+  --base-color: #ebebeb;
+  --highlight-color: #f5f5f5;
+  --animation-duration: 1.5s;
+  --animation-direction: normal;
+  --pseudo-element-display: block;
+}
+
+$light: var(--white);
+$grey: var(--grey);
+
+
+//Subway Font
+// $subway: 'SubwaySansLCGRegular', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+// $subway-medium: 'SubwaySansLCGMedium', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+// $subway-bold: 'SubwaySansLCGBold', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+// $subway-cond-black: 'SubwaySansCondBold', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+// $subway-cond-medium: 'SubwaySansCondMedium', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+// $subway-cond-bold: 'SubwaySansCondBlack', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+
+$makeTextOffScreen: -9999px;

@@ -1,0 +1,45 @@
+@import 'abstracts/variables';
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+
+@import 'base/reset';
+
+@import 'layout/header';
+@import 'layout/body';
+@import 'layout/footer';
+
+@import 'components/button';
+@import 'components/slider';
+
+@import 'pages/homepage';
+@import 'pages/about';
+
+@import 'theme/theme';
+
+// COMMON GLOBAL STYLE
+.vetables-background-effect {
+    background-image: url("https://amigos-themes.com/frutella/frutella-light/assets/images/parts/vegetables-pattern-white.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    opacity: 0.2;
+    z-index: 0;
+}
+
+.section-title::after {
+    background-image: url("//cdn.shopify.com/s/files/1/0108/7370/0415/files/leaf.png?v=1580303528");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    content: "";
+    height: 104px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 164px;
+    z-index: 0;
+    transform: translate(-50%, -50%);
+
+}
+

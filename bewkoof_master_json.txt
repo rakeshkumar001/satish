@@ -1,0 +1,5389 @@
+{
+    "products": [
+        {
+            "id": 604435,
+            "all_offer_price": 3099.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "blue"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-s-blue-nasa-printed-oversized-shirt-604435-1702898984-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263127,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263132,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263136,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263140,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263149,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1119.0,
+            "mrp": 3099.0,
+            "name": "Men's Blue NASA Graphic Printed Oversized Shirt",
+            "custom_name": "Men's Blue NASA Graphic Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1199.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-blue-nasa-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "average_rating": 4.5,
+            "member_discount": "63% OFF",
+            "product_discount": "61% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604437,
+            "all_offer_price": 2999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "olive"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-s-olive-green-key-printed-oversized-shirt-604437-1702298108-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263129,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263141,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263142,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263143,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263144,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1289.0,
+            "mrp": 2999.0,
+            "name": "Men's Olive Green Mickey Graphic Printed Oversized Shirt",
+            "custom_name": "Men's Olive Green Mickey Graphic Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 1399.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-olive-green-key-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "average_rating": 4.4,
+            "member_discount": "57% OFF",
+            "product_discount": "53% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604431,
+            "all_offer_price": 3199.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "black"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-s-black-ori-printed-oversized-shirt-604431-1702296995-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263116,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263118,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263122,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263126,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263133,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1289.0,
+            "mrp": 3199.0,
+            "name": "Men's Black Original Graphic Printed Oversized Shirt",
+            "custom_name": "Men's Black Original Graphic Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 1399.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-black-ori-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "average_rating": 4.5,
+            "member_discount": "59% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604436,
+            "all_offer_price": 2799.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "blue"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-military-navy-oversized-shacket-604436-1702898765-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263128,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263131,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263134,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263137,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263139,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1199.0,
+            "mrp": 2799.0,
+            "name": "Men's Blue Oversized Shirt",
+            "custom_name": "Men's Blue Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1299.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-military-navy-oversized-shacket",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "average_rating": 4.5,
+            "member_discount": "57% OFF",
+            "product_discount": "53% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604443,
+            "all_offer_price": 2799.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "wine"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-maroon-oversized-shacket-604443-1702898920-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263154,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263168,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263172,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263176,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263181,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1199.0,
+            "mrp": 2799.0,
+            "name": "Men's Maroon Oversized Shirt",
+            "custom_name": "Men's Maroon Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1299.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-maroon-oversized-shacket",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "average_rating": 4.4,
+            "member_discount": "57% OFF",
+            "product_discount": "53% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604480,
+            "all_offer_price": 2699.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "brown"
+            ],
+            "design": "Checked",
+            "display_image": "men-s-brown-run-checked-oversized-shirt-604480-1699251895-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263297,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263298,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263299,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263300,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263301,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263302,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 979.0,
+            "mrp": 2699.0,
+            "name": "Men's Brown \u0026 Black Run Checked Oversized Shirt",
+            "custom_name": "Men's Brown \u0026 Black Run Checked Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1049.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-brown-run-checked-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Checked",
+            "average_rating": 4.4,
+            "member_discount": "63% OFF",
+            "product_discount": "61% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604428,
+            "all_offer_price": 2799.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "black"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-black-oversized-shacket-604428-1702298467-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263101,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263103,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263106,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263108,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263111,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1199.0,
+            "mrp": 2799.0,
+            "name": "Men's Black Oversized Shirt",
+            "custom_name": "Men's Black Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1299.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-black-oversized-shacket",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "average_rating": 4.5,
+            "member_discount": "57% OFF",
+            "product_discount": "53% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604442,
+            "all_offer_price": 3099.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "blue"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-s-blue-den-printed-oversized-shirt-604442-1698919124-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263146,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263155,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263157,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263162,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263164,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1119.0,
+            "mrp": 3099.0,
+            "name": "Men's Blue Den Graphic Printed Oversized Shirt",
+            "custom_name": "Men's Blue Den Graphic Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1199.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-blue-den-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x peanuts",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "average_rating": 4.5,
+            "member_discount": "63% OFF",
+            "product_discount": "61% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620468,
+            "all_offer_price": 1999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-multicolor-all-over-printed-oversized-shirt-620468-1702986588-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299616,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299620,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299623,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299626,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299629,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299632,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 919.0,
+            "mrp": 1999.0,
+            "name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "custom_name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 999.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-multicolor-all-over-printed-oversized-shirt-6",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "54% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620469,
+            "all_offer_price": 1999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-multicolor-all-over-printed-oversized-shirt-620469-1702297774-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299617,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299621,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299624,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299627,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299630,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299633,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 919.0,
+            "mrp": 1999.0,
+            "name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "custom_name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 999.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-multicolor-all-over-printed-oversized-shirt-7",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "average_rating": 4.5,
+            "member_discount": "54% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586216,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "white"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-oversize-hyperprint-shirt-37-586216-1698918641-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214546,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214549,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214551,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214553,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214554,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214555,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's White Garfield Graphic Printed Oversized Shirt",
+            "custom_name": "Men's White Garfield Graphic Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-hyperprint-shirt-37",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x garfield",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "average_rating": 4.5,
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604433,
+            "all_offer_price": 2699.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "brown"
+            ],
+            "design": "Checked",
+            "display_image": "men-s-brown-reb-checked-oversized-shirt-604433-1699251657-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263120,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263124,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263130,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263135,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263138,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1099.0,
+            "mrp": 2699.0,
+            "name": "Men's Brown \u0026 Black Reb Checked Oversized Shirt",
+            "custom_name": "Men's Brown \u0026 Black Reb Checked Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1199.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-brown-reb-checked-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Checked",
+            "average_rating": 4.5,
+            "member_discount": "59% OFF",
+            "product_discount": "55% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604440,
+            "all_offer_price": 2699.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "green"
+            ],
+            "design": "Checked",
+            "display_image": "men-s-green-hang-checked-oversized-shirt-604440-1699251787-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263145,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263147,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263156,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263158,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263161,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1099.0,
+            "mrp": 2699.0,
+            "name": "Men's Green \u0026 Black Hang Checked Oversized Shirt",
+            "custom_name": "Men's Green \u0026 Black Hang Checked Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1199.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-green-hang-checked-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Checked",
+            "average_rating": 4.5,
+            "member_discount": "59% OFF",
+            "product_discount": "55% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604439,
+            "all_offer_price": 3099.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "green"
+            ],
+            "design": "Checked",
+            "display_image": "men-s-green-black-snoopy-checked-oversized-hooded-shirt-604439-1702908005-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263148,
+                    "name": "S",
+                    "stock_status": false
+                },
+                {
+                    "id": 1263150,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263151,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263152,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263153,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1289.0,
+            "mrp": 3099.0,
+            "name": "Men's Green \u0026 Black Snoopy Checked Oversized Hooded Shirt",
+            "custom_name": "Men's Green \u0026 Black Snoopy Checked Oversized Hooded Shirt",
+            "offer_type": "price_cut",
+            "price": 1399.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-green-sno-checked-oversized-hooded-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x peanuts",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Checked",
+            "average_rating": 4.4,
+            "member_discount": "58% OFF",
+            "product_discount": "54% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586228,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "white"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-superloose-hyperprint-shirt-87-586228-1698067867-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214595,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214598,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214601,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214604,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214607,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214609,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's White \u0026 Black Mickey Graphic Printed Super Loose Fit Shirt",
+            "custom_name": "Men's White \u0026 Black Mickey Graphic Printed Super Loose Fit Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-superloose-hyperprint-shirt-87",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "SUPER LOOSE FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604446,
+            "all_offer_price": 3199.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "blue"
+            ],
+            "design": "Printed",
+            "display_image": "men-s-blue-icon-printed-oversized-shirt-604446-1699251700-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263160,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263170,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263174,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263179,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263185,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 1119.0,
+            "mrp": 3199.0,
+            "name": "Men's Blue Icon Printed Oversized Shirt",
+            "custom_name": "Men's Blue Icon Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1199.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-blue-icon-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Printed",
+            "average_rating": 4.4,
+            "member_discount": "65% OFF",
+            "product_discount": "62% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604429,
+            "all_offer_price": 2699.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "red"
+            ],
+            "design": "Checked",
+            "display_image": "men-s-red-reb-checked-oversized-shirt-604429-1699251538-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263102,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263105,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263109,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263112,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263114,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 979.0,
+            "mrp": 2699.0,
+            "name": "Men's Red \u0026 Black Reb Checked Oversized Shirt",
+            "custom_name": "Men's Red \u0026 Black Reb Checked Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1049.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-red-reb-checked-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Checked",
+            "average_rating": 4.5,
+            "member_discount": "63% OFF",
+            "product_discount": "61% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 604430,
+            "all_offer_price": 2699.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "blue"
+            ],
+            "design": "Checked",
+            "display_image": "men-s-blue-run-checked-oversized-shirt-604430-1699251743-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1263104,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263107,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263110,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263113,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1263115,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 979.0,
+            "mrp": 2699.0,
+            "name": "Men's Blue \u0026 Black Run Checked Oversized Shirt",
+            "custom_name": "Men's Blue \u0026 Black Run Checked Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 1049.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-blue-run-checked-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Checked",
+            "average_rating": 4.5,
+            "member_discount": "63% OFF",
+            "product_discount": "61% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620476,
+            "all_offer_price": 2199.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-green-all-over-printed-oversized-shirt-620476-1702990830-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299647,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299654,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299660,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299664,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299667,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299670,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 919.0,
+            "mrp": 2199.0,
+            "name": "Men's Green All Over Printed Oversized Shirt",
+            "custom_name": "Men's Green All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 999.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-green-all-over-printed-oversized-shirt-4",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "58% OFF",
+            "product_discount": "54% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586214,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "black"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-superloose-hyperprint-shirt-35-586214-1698919805-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214537,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214539,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214541,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214543,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214544,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214548,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's Black Nuts Graphic Printed Super Loose Fit Shirt",
+            "custom_name": "Men's Black Nuts Graphic Printed Super Loose Fit Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-superloose-hyperprint-shirt-35",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x peanuts",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "SUPER LOOSE FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "average_rating": 4.5,
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586204,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-oversize-aop-shirt-17-586204-1698060964-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214454,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214471,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214489,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214503,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214517,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 829.0,
+            "mrp": 1599.0,
+            "name": "Men's White \u0026 Black All Over Printed Oversized Shirt",
+            "custom_name": "Men's White \u0026 Black All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 899.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-17",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x marvel",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "48% OFF",
+            "product_discount": "43% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586196,
+            "all_offer_price": 1799.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-oversize-aop-shirt-14-586196-1698060898-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214436,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214442,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214452,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214468,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214482,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 919.0,
+            "mrp": 1799.0,
+            "name": "Men's White All Over Printed Oversized Shirt",
+            "custom_name": "Men's White All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 999.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-14",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "48% OFF",
+            "product_discount": "44% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586200,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "black"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-black-oversize-fit-shirt-5-586200-1696418222-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214444,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214457,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214476,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214493,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214506,
+                    "name": "2XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's Black Oversized Shirt",
+            "custom_name": "Men's Black Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-black-oversize-fit-shirt-5",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586191,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-white-all-over-mickey-printed-oversized-shirt-586191-1698919188-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214421,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214424,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214427,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214430,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214431,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1599.0,
+            "name": "Men's White All Over Mickey Printed Oversized Shirt",
+            "custom_name": "Men's White All Over Mickey Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-11",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "average_rating": 5.0,
+            "member_discount": "60% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620484,
+            "all_offer_price": 2050.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "grey"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-s-cursed-sasuke-grey-graphic-printed-oversized-shirt-620484-1695804462-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299683,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299700,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299710,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299715,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299718,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299722,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 649.0,
+            "mrp": 2050.0,
+            "name": "Men's Grey Cursed Sasuke Graphic Printed Oversized Shirt",
+            "custom_name": "Men's Grey Cursed Sasuke Graphic Printed Oversized Shirt",
+            "offer_type": "cotm",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-cursed-sasuke-grey-graphic-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x naruto",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "member_discount": "68% OFF",
+            "product_discount": "65% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620477,
+            "all_offer_price": 2050.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "brown"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-s-gara-shirt-brown-graphic-printed-oversized-shirt-620477-1695804545-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299671,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299675,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299681,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299690,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299698,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299708,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 829.0,
+            "mrp": 2050.0,
+            "name": "Men's Brown Gara Graphic Printed Oversized Shirt",
+            "custom_name": "Men's Brown Gara Graphic Printed Oversized Shirt",
+            "offer_type": "cotm",
+            "price": 899.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-gara-shirt-brown-graphic-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x naruto",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "member_discount": "59% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620483,
+            "all_offer_price": 2050.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "black"
+            ],
+            "design": "Graphic Print",
+            "display_image": "men-s-black-uchiha-slayer-graphic-printed-oversized-shirt-620483-1695809144-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299678,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299694,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299707,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299712,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299717,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299720,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 2050.0,
+            "name": "Men's Black Uchiha Slayer Graphic Printed Oversized Shirt",
+            "custom_name": "Men's Black Uchiha Slayer Graphic Printed Oversized Shirt",
+            "offer_type": "cotm",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-uchiha-slayer-black-graphic-printed-oversized-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x naruto",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Graphic Print",
+            "member_discount": "63% OFF",
+            "product_discount": "61% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586197,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "brown"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-brown-superloose-fit-shirt-1-586197-1698067989-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214458,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214472,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214488,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214502,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214510,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214518,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's Brown Super Loose Fit Shirt",
+            "custom_name": "Men's Brown Super Loose Fit Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-brown-superloose-fit-shirt-1",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "SUPER LOOSE FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586226,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-superloose-aop-shirt-89-586226-1693911239-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214596,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214599,
+                    "name": "M",
+                    "stock_status": false
+                },
+                {
+                    "id": 1214602,
+                    "name": "L",
+                    "stock_status": false
+                },
+                {
+                    "id": 1214606,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214610,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 529.0,
+            "mrp": 1599.0,
+            "name": "Men's Black All Over Printed Super Loose Fit Shirt",
+            "custom_name": "Men's Black All Over Printed Super Loose Fit Shirt",
+            "offer_type": "lucky_size",
+            "price": 569.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-superloose-aop-shirt-89",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "SUPER LOOSE FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "66% OFF",
+            "product_discount": "64% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586202,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-oversize-aop-shirt-12-586202-1695895083-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214449,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214463,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214486,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214500,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214513,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214521,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's Black Snoopy All Over Printed Oversized Shirt",
+            "custom_name": "Men's Black Snoopy All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-12",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x peanuts",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 364799,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "aop-mandarin-collar-full-sleeve-shirt-364799-1656142394-1.jpg",
+            "flip_image": "aop-mandarin-collar-full-sleeve-shirt-364799-1656142420-6.jpg",
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 713291,
+                    "name": "38",
+                    "stock_status": false
+                },
+                {
+                    "id": 713311,
+                    "name": "40",
+                    "stock_status": true
+                },
+                {
+                    "id": 713322,
+                    "name": "42",
+                    "stock_status": false
+                },
+                {
+                    "id": 713336,
+                    "name": "44",
+                    "stock_status": false
+                },
+                {
+                    "id": 713348,
+                    "name": "46",
+                    "stock_status": false
+                },
+                {
+                    "id": 713358,
+                    "name": "48",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 409.0,
+            "mrp": 1599.0,
+            "name": "AOP Mandarin Collar Full Sleeve Shirt",
+            "custom_name": "AOP Mandarin Collar Full Sleeve Shirt",
+            "offer_type": "price_cut",
+            "price": 445.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "aop-mandarin-collar-full-sleeve-shirtaop-436",
+            "brand": "",
+            "model": "",
+            "material": "Cotton",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "",
+            "member_discount": "74% OFF",
+            "product_discount": "72% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": null
+        },
+        {
+            "id": 586199,
+            "all_offer_price": 1699.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Typography",
+            "display_image": "men-oversize-aop-shirt-21-586199-1698060579-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214437,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214443,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214453,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214470,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214485,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214499,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 919.0,
+            "mrp": 1699.0,
+            "name": "Men's Black Champ Wile Typography Oversized Shirt",
+            "custom_name": "Men's Black Champ Wile Typography Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 999.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-21",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x looney tunes",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Typography",
+            "member_discount": "45% OFF",
+            "product_discount": "41% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586206,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "blue"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-blue-superloose-fit-shirt-2-586206-1698061525-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214467,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214481,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214498,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214509,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214516,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214520,
+                    "name": "3XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 829.0,
+            "mrp": 1599.0,
+            "name": "Men's Blue Super Loose Fit Shirt",
+            "custom_name": "Men's Blue Super Loose Fit Shirt",
+            "offer_type": "price_cut",
+            "price": 899.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-blue-superloose-fit-shirt-2",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "SUPER LOOSE FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "member_discount": "48% OFF",
+            "product_discount": "43% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586192,
+            "all_offer_price": 1799.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-oversize-aop-shirt-19-586192-1698061349-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214432,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214439,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214446,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214461,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214475,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 829.0,
+            "mrp": 1799.0,
+            "name": "Men's Blue All Over Printed Oversized Shirt",
+            "custom_name": "Men's Blue All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 899.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-19",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x looney tunes",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586221,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Tie \u0026 Dye",
+            "display_image": "men-oversize-tie-dye-shirt-33-586221-1693910906-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214561,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214568,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214575,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214580,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214584,
+                    "name": "2XL",
+                    "stock_status": false
+                },
+                {
+                    "id": 1214586,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1599.0,
+            "name": "Men's White \u0026 Blue Tie \u0026 Dye Oversized Shirt",
+            "custom_name": "Men's White \u0026 Blue Tie \u0026 Dye Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-tie-dye-shirt-33",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Tie \u0026 Dye",
+            "member_discount": "60% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586224,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Tie \u0026 Dye",
+            "display_image": "men-oversize-tie-dye-shirt-34-586224-1693911073-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214566,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214574,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214579,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214583,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214585,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214587,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1599.0,
+            "name": "Men's White \u0026 Blue Tie \u0026 Dye Oversized Shirt",
+            "custom_name": "Men's White \u0026 Blue Tie \u0026 Dye Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-tie-dye-shirt-34",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Tie \u0026 Dye",
+            "member_discount": "60% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586205,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-oversize-aop-shirt-13-586205-1693910873-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214466,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214483,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214495,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214508,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214515,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1599.0,
+            "name": "Men's Brown All Over Printed Oversized Shirt",
+            "custom_name": "Men's Brown All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-13",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x garfield",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "60% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586207,
+            "all_offer_price": 1699.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-oversize-aop-shirt-18-586207-1693910939-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214469,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214484,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214496,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214507,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214514,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1699.0,
+            "name": "Men's Black All Over Mickey Printed Oversized Shirt",
+            "custom_name": "Men's Black All Over Mickey Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-18",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "62% OFF",
+            "product_discount": "58% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586209,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-oversize-aop-shirt-23-586209-1693911106-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214523,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214525,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214528,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214531,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214534,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1599.0,
+            "name": "Men's White \u0026 Black All Over Printed Oversized Shirt",
+            "custom_name": "Men's White \u0026 Black All Over Printed Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-aop-shirt-23",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x garfield",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "60% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586193,
+            "all_offer_price": 1899.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Tie \u0026 Dye",
+            "display_image": "men-oversize-tie-dye-shirt-20-586193-1693911273-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214433,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214438,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214445,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214455,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214474,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214490,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 649.0,
+            "mrp": 1899.0,
+            "name": "Men's Grey \u0026 White Tie \u0026 Dye Oversized Shirt",
+            "custom_name": "Men's Grey \u0026 White Tie \u0026 Dye Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-oversize-tie-dye-shirt-20",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Tie \u0026 Dye",
+            "member_discount": "65% OFF",
+            "product_discount": "63% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586194,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-superloose-aop-shirt-15-586194-1693911006-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214434,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214440,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214448,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214462,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214478,
+                    "name": "2XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1599.0,
+            "name": "Men's Grey All Over Printed Super Loose Fit Shirt",
+            "custom_name": "Men's Grey All Over Printed Super Loose Fit Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-superloose-aop-shirt-15",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "SUPER LOOSE FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "60% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586195,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-superloose-aop-shirt-16-586195-1693911039-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214435,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214441,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214450,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214465,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214480,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214494,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 639.0,
+            "mrp": 1599.0,
+            "name": "Men's Brown All Over Printed Super Loose Fit Shirt",
+            "custom_name": "Men's Brown All Over Printed Super Loose Fit Shirt",
+            "offer_type": "price_cut",
+            "price": 699.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "men-superloose-aop-shirt-16",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof x disney",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "SUPER LOOSE FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "member_discount": "60% OFF",
+            "product_discount": "56% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586201,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "grey"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-grey-oversize-fit-shirt-4-586201-1693911307-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214447,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214459,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214479,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214497,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214511,
+                    "name": "2XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's Grey Oversized Shirt",
+            "custom_name": "Men's Grey Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-grey-oversize-fit-shirt-4",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 586198,
+            "all_offer_price": 1599.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "brown"
+            ],
+            "design": "Solid",
+            "display_image": "men-s-brown-oversized-shirt-586198-1700548891-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1214460,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214477,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214492,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214504,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1214512,
+                    "name": "2XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 739.0,
+            "mrp": 1599.0,
+            "name": "Men's Brown Oversized Shirt",
+            "custom_name": "Men's Brown Oversized Shirt",
+            "offer_type": "price_cut",
+            "price": 799.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-brown-oversize-fit-shirt-3",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Solid",
+            "average_rating": 4.5,
+            "member_discount": "53% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "VISCOSE RAYON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 628143,
+            "all_offer_price": 1899.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "white"
+            ],
+            "design": "Striped",
+            "display_image": "men-s-white-green-striped-shirt-628143-1701186273-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1319037,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1319043,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1319045,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1319049,
+                    "name": "XL",
+                    "stock_status": true
+                }
+            ],
+            "stock_status": true,
+            "member_price": 839.0,
+            "mrp": 1899.0,
+            "name": "Men's White \u0026 Green Striped Shirt",
+            "custom_name": "Men's White \u0026 Green Striped Shirt",
+            "offer_type": "price_cut",
+            "price": 892.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-white-green-striped-shirt",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": null,
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Striped",
+            "member_discount": "55% OFF",
+            "product_discount": "53% OFF",
+            "manufacturer_brand": "Campus Sutra",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620467,
+            "all_offer_price": 1999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-yellow-all-over-printed-oversized-shirt-620467-1702296941-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299611,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299612,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299613,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299614,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299615,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299618,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 919.0,
+            "mrp": 1999.0,
+            "name": "Men's Yellow All Over Printed Oversized Shirt",
+            "custom_name": "Men's Yellow All Over Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 999.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-yellow-all-over-printed-oversized-shirt-5",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "average_rating": 4.4,
+            "member_discount": "54% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620470,
+            "all_offer_price": 1999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-multicolor-all-over-printed-oversized-shirt-620470-1702297682-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299619,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299622,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299625,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299628,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299631,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299634,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 829.0,
+            "mrp": 1999.0,
+            "name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "custom_name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 899.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-multicolor-all-over-printed-oversized-shirt-8",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "average_rating": 4.5,
+            "member_discount": "58% OFF",
+            "product_discount": "55% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620472,
+            "all_offer_price": 1999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-blue-all-over-printed-oversized-shirt-620472-1702297747-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299636,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299638,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299641,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299646,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299652,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299658,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 919.0,
+            "mrp": 1999.0,
+            "name": "Men's Blue All Over Printed Oversized Shirt",
+            "custom_name": "Men's Blue All Over Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 999.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-blue-all-over-printed-oversized-shirt-3",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "average_rating": 4.5,
+            "member_discount": "54% OFF",
+            "product_discount": "50% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620473,
+            "all_offer_price": 1999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-grey-all-over-printed-oversized-shirt-620473-1702297242-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299637,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299640,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299643,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299648,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299653,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299659,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 829.0,
+            "mrp": 1999.0,
+            "name": "Men's Grey All Over Printed Oversized Shirt",
+            "custom_name": "Men's Grey All Over Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 899.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-grey-all-over-printed-oversized-shirt-10",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "average_rating": 4.5,
+            "member_discount": "58% OFF",
+            "product_discount": "55% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        },
+        {
+            "id": 620475,
+            "all_offer_price": 1999.0,
+            "description": "",
+            "category": "Shirt",
+            "color": [
+                "aop"
+            ],
+            "design": "Aop",
+            "display_image": "men-s-multicolor-all-over-printed-oversized-shirt-620475-1702297585-1.jpg",
+            "flip_image": null,
+            "parent_category": null,
+            "product_sizes": [
+                {
+                    "id": 1299645,
+                    "name": "S",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299651,
+                    "name": "M",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299657,
+                    "name": "L",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299663,
+                    "name": "XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299666,
+                    "name": "2XL",
+                    "stock_status": true
+                },
+                {
+                    "id": 1299669,
+                    "name": "3XL",
+                    "stock_status": false
+                }
+            ],
+            "stock_status": true,
+            "member_price": 829.0,
+            "mrp": 1999.0,
+            "name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "custom_name": "Men's Multicolor All Over Printed Oversized Shirt",
+            "offer_type": "best_seller",
+            "price": 899.0,
+            "ptype": "single",
+            "subclass": "Shirt",
+            "url": "mens-multicolor-all-over-printed-oversized-shirt-9",
+            "brand": "",
+            "model": "",
+            "material": "",
+            "status": 1,
+            "color_name": null,
+            "tribe_text": "For TriBe Members",
+            "tribe_image_url": "",
+            "designer": "bewakoof",
+            "cat_designer": "",
+            "in_stock": 1,
+            "gender": "Men",
+            "experiment_id": "plp_sorting;es;v3;plp_score1",
+            "limited_edition": false,
+            "group_count": 0,
+            "category_info": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "child_category": {
+                "gender": "Men",
+                "subclass": "Shirt",
+                "id": 44,
+                "name": "Shirt",
+                "url": ""
+            },
+            "sp": null,
+            "offer": "14% OFF",
+            "coin_statement": null,
+            "tags": [
+                {
+                    "type": "fit",
+                    "label": "OVERSIZED FIT",
+                    "bgColor": "rgba(82, 82, 82, 0.8)",
+                    "textColor": "#fff"
+                }
+            ],
+            "tribe_header": null,
+            "upgraded_dimension": true,
+            "pattern": "Aop",
+            "average_rating": 4.4,
+            "member_discount": "58% OFF",
+            "product_discount": "55% OFF",
+            "manufacturer_brand": "Bewakoof®",
+            "fabric_tag": {
+                "type": "fabric",
+                "label": "100% COTTON",
+                "bgColor": "white",
+                "border": "1px solid #737373",
+                "textColor": "#737373"
+            }
+        }
+    ],
+    "id": 125,
+    "total_product_count": 215,
+    "product_count": 50,
+    "total_page_count": 5,
+    "seo_head": "",
+    "meta_description": "Upgrade your wardrobe with the trendiest collection of casual shirts for men at Bewakoof. Explore a wide range of stylish and comfortable shirts for men online in India.",
+    "meta_keywords": "shirts for men, shirts, casual shirt, casual shirts for men, stylish shirts for men, trending shirts for men, gents shirt, cotton shirts for men, party wear shirts for men, best shirts for men, mens shirts online, slim fit shirts | Shirts for Men",
+    "canonical_url": "https://www.bewakoof.com/men-shirts",
+    "h": "Men's Shirts",
+    "meta_title": "Shirts for Men: Buy Casual Shirts for Men Online India",
+    "default_sortby": "popular",
+    "url": "men-shirts",
+    "title": "Shirts for Men",
+    "name": "Men's Shirts",
+    "description": "\u003ch2\u003eBuy Casual Shirts for Men Online in India at Bewakoof\u003c/h2\u003e\u003cp\u003eLook stylish every day with our casual shirts for men available at the best price. 300+ styles to choose from our men's shirts collection. Buy your favorite shirt today!\u003c/p\u003e\u003cp\u003eWhen it comes to defining sophisticated fashion for men, slim-fit casual shirts always take an edge over other options. The reason being that they are a perfect pick for both parties and professional looks. A unique thing about Men's shirts is that they are handy yet stylish clothing. They can be teamed up with a smart pair of jeans for a classy look. It's a go-to option for college students looking for potential alternatives to pep up their style as it allows them to stand out with swag.\u0026#160;\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eBewkoof.com has an amazing collection of {filter} shirts for men that can help them create a style statement and open new ways of attaining a high fashion score. With this {filter} shirt variety in your wardrobe, you can create a confident and dapper look every day.\u0026#160;\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e\u003ch3\u003e\u003cspan\u003eWhy Should Stylish Shirts be Your Pick?\u003c/span\u003e\u003c/h3\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003e{filter} shirts for men offer 'gentlemanly' vibes. They are ideal for creating a uniform, balanced look. Whether you need to create an attractive look for a formal dinner or planning for a night out with friends, just put on a casual shirt, and you are good to go!\u0026#160;\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003eFurthermore, they rank high on the style scale so you won't have to give a second thought to load your wardrobe with cotton shirt varieties. With this clothing at your disposal, you won't have to struggle too much to achieve a smart look. We at \u003ca href=\"https://www.bewakoof.com/\"\u003eBewkoof.com\u003c/a\u003e also have an extensive collection of half shirts for men, in case you don't want to wear long sleeves. It would give you comfort with a sassy appearance.\u0026#160;\u003c/p\u003e\u003cp\u003e\u003cspan\u003e\u003cbr/\u003e\u003c/span\u003e\u003c/p\u003e\u003ch3\u003e\u003cspan\u003eHow to Choose the Right Casual Shirt?\u003c/span\u003e\u003c/h3\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eFinding the best shirts for men isn't an arduous task if you consider the following rules when making the purchase.\u003c/span\u003e\u003c/p\u003e\u003col\u003e\u003cli\u003e\u003cspan\u003e\u003cb\u003eLook for Breathable Fabric\u003c/b\u003e - Material is one of the most important factors to keep in mind to ensure a worthy buy. Linen or cotton shirts offer unparalleled comfort. They are breathable, soft, and provide a sophisticated look. You won't regret buying shirts, tailored out of these fabrics.\u0026#160;\u003c/span\u003e\u003c/li\u003e\u003cbr/\u003e\u003cli\u003e\u003cspan\u003e\u003cb\u003eFind a Sleeve Style that You can Pull Off Easily\u003c/b\u003e \u0026#8211; Fortunately, these shirts come in vast selections of sleeve styles such as a half-sleeve, full-sleeve, rolled-up sleeve, and 3/4th-sleeve. You can easily find the one matching your unique style.\u003c/span\u003e\u003c/li\u003e\u003cbr/\u003e\u003cli\u003e\u003cspan\u003e\u003cb\u003eChoose a Collar Style Suiting Your Personality\u003c/b\u003e \u0026#8211; Mostly, men's formal shirts come with banded or point collars. The ones with point collars from one of the classic varieties, while the shirts with a Chinese collar shirt are gaining immense popularity these days.\u003c/span\u003e\u003c/li\u003e\u003cbr/\u003e\u003cli\u003e\u003cspan\u003e\u003cb\u003eFocus on the Shirt's Fitting\u003c/b\u003e - There are various options but choose a fit according to your style and comfort preference. shirts with a bit of loose-fitting will give you a perfect look, though. Nonetheless, the gent's shirt collection by Bewkoof.com looks impressive in both a slim fit and loose fit.\u003c/span\u003e\u003c/li\u003e\u003c/ol\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eJust make sure to get the body measurements right and check the size chart to find the right fit when purchasing clothing online.\u0026#160;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003ch3\u003e\u003cspan\u003eHow to wear Casual Shirts?\u0026#160;\u003c/span\u003e\u003c/h3\u003e\u003cbr/\u003e\u003cp\u003eThe details and structure of shirts are different comparatively. They feature a unique athletic cut, which makes them narrow from the waist. Plus, you won't feel bulginess, which is otherwise a common thing with heavy shirts. As slim fits are made with light fabric, you can easily pair them with\u0026#160;\u003ca href=\"https://www.bewakoof.com/men-joggers\"\u003etrack pants\u003c/a\u003e or trousers.  Alternatively, they can be clubbed with tight jeans and fitted pants as well.\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eBewakoof.com has an exclusive range of casual shirts with a variety of handpicked styles. You'll find a fantastic collection here from solid colors to checks, summer pastels, prints, and striped designs.\u0026#160;\u003c/span\u003e\u003cspan\u003eWe also have a range of cotton shirts for men with geometric patterns, vintage looks, and Mandarin collars. Add some smart and classy clothing to your group so that you won't have to carry a dull, unexciting look the next time you step out of your home.\u0026#160;\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e\u003ch3\u003e\u003cspan\u003eTips to Zero Down Perfect Casual Shirts for Yourself\u003c/span\u003e\u003c/h3\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eSlim, regular, or extra slim \u0026#8211; these are the three most popular fits. Regular shirts are perfect for men who prefer comfort above everything else. Generally, they feature straight side cuts, which make them a breathable clothing variety.\u0026#160;\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eIf you are looking for a leaner version of shirts, then the Cotton shirt is best to meet your purpose. These shirt's tapered sides make them an ideal option for thin men as it gives a perfect fitting towards their middle section.\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eOn the other hand, men who are too skinny can go for extra slim fits. With a little more tapering, they compensate very well for the men with a thinner midsection. There is a massive range of branded shirts in trending designs.\u0026#160;\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003ch3\u003e\u003cspan\u003eWhere to wear Men's shirts?\u003c/span\u003e\u003c/h3\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eThe sleeve length makes a significant difference when it comes to acing a shirt look. Roll-up and half shirt for men ideally designed for a casual look. While full-sleeved varieties make a perfect option for nights outs and parties as they are classier comparatively. You can even find full-sleeved shirts with lovely subtle prints. They are a good option for both daily wear and party attire.\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003eOn the other hand, short-sleeved men's shirts online is meant for muscular males who want to show off their biceps. At Bewakoof.com, you'll find not only \u003ca href=\"https://www.bewakoof.com/men-t-shirts\"\u003eHalf Sleeve T-shirts\u003c/a\u003e but also a tempting range of half-sleeved, roll-up, and full-sleeved shirts within budgeted rates. Our stylish men's collection is best for self-use as well as for gifting purposes. Check our website to find the most exquisite piece according to your preference.\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003cp\u003e\u003cbr/\u003e\u003c/p\u003e\u003cp\u003e\u003c/p\u003e\u003ch3\u003e\u003cspan\u003eBuy casual shirts at Bewakoof.com\u003c/span\u003e\u003c/h3\u003e\u003cbr/\u003e\u003cp\u003e\u003cspan\u003eA stylish shirt can uplift your mood in an instance. The best thing is that at Bewakoof.com, you'll have selections based on a variety of factors such as collar style, sleeve type, fit, shirt type, etc. Our collection is available in different patterns and shades, which will leave you in confusion about your choice. We have a good range of daily wear and party wear. From college-goers to professionals, we have something for everyone to elevate their fashion quotient.\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e\u003cp\u003eRedefine your dressing sense by purchasing the latest printed shirts for men online, designed impeccably for style lovers. You won't have to compromise on the comfort factor of shopping with us. It's time to give wings to your distinctive style with this wardrobe staple. A thrilling shopping experience awaits you at Bewakoof.com.\u003c/p\u003e\u003cp\u003e\u003cbr/\u003e\u003c/p\u003e\u003cbr/\u003e\u0026#10;\u0026#10;\u003cp\u003e\u003cstrong\u003ePopular Categories\u003c/strong\u003e:\u003c/p\u003e\u0026#10;\u0026#10;\u003cp\u003e\u003ca href=\"https://www.bewakoof.com/men-t-shirts\" title=\"Buy T-Shirts for Men Online in India\"\u003eMen's T-Shirts\u003c/a\u003e |\u0026#160;\u003ca href=\"https://www.bewakoof.com/men-full-sleeve-t-shirts\" title=\"Buy Long Sleeve T-Shirts for Men Online in India\"\u003eMen's Full Sleeve T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-printed-tshirts\" title=\"Buy Graphic T-Shirts for Men Online in India\"\u003eMen's Printed T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-plain-t-shirts\" title=\"Buy Plain T-Shirts for Men Online in India\"\u003eMen's Plain T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/polo-t-shirts-for-men\" title=\"Buy Polo Neck T-Shirts for Men Online in India\"\u003eMen's Polo T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-henley-t-shirts\" title=\"Buy Henley T-Shirts Online In India \"\u003eMen's Henley T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/custom-tshirts\" title=\"Buy Custom T-Shirts Online in India\"\u003eCustom T-shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/mens-combo-t-shirt\" title=\"Buy Custom T-Shirts Online in India\"\u003eCombo T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/couple-t-shirts\" title=\"Buy T-Shirts for Couple Online at Best Prices\"\u003eCouple T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/anime-collection\" title=\"Buy Anime T-Shirts Online in India at Best Prices\"\u003eAnime T-Shirts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-vests\" title=\"Buy Vests for Men Online in India at Best Prices\"\u003eMen's Vests\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-joggers\" title=\"Buy Joggers for Men Online in India at Best Prices\"\u003eMen's Joggers\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-pajamas\" title=\"Buy Pyjamas for Men Online in India at Best Prices\"\u003eMen's Pyjamas\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-shorts\" title=\"Buy Shorts for Men Online in India at Best Prices\"\u003eMen's Shorts\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-boxer-shorts\" title=\"Buy Boxers for Men Online in India at Best Prices\"\u003eMen's Boxers\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-flip-flops\" title=\"Buy Flip Flops for Men Online in India at Best Prices\"\u003eMen's Flip Flops\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/men-sliders\" title=\"Buy Sliders for Men Online in India at Best Prices\"\u003eMen's Sliders\u003c/a\u003e | \u003ca href=\"https://www.bewakoof.com/mobile-covers-india\" title=\"Buy Mobile Covers and Cases Online in India at Best Prices\"\u003eMobile Covers\u003c/a\u003e\u003c/p\u003e",
+    "show_filter": 1,
+    "show_quick_filter": false,
+    "quick_filters": {},
+    "breadcrumb_list": [
+        {
+            "url": "men-clothing",
+            "breadcrumb_text": "Men Clothing"
+        }
+    ],
+    "desktop_banner": "InsideBanner_desktop_flanel_LE-1703440083.jpg",
+    "banner": "InsideBanner_Msite_flanel_LE-1703440091.jpg",
+    "pagination": {
+        "number_of_pages": 5,
+        "next_page_available": true,
+        "current_page": 0
+    },
+    "tribe_header": null,
+    "hide_plp_price_list": false,
+    "segments": {
+        "main": [],
+        "others": []
+    },
+    "type": "collection",
+    "tracker_data": {
+        "event": "products_list_view",
+        "products_list_view": {
+            "url": "men-shirts",
+            "title": "Men's Shirts",
+            "page": 1,
+            "item": [
+                604435,
+                604437,
+                604431,
+                604436,
+                604443,
+                604480,
+                604428,
+                604442,
+                620468,
+                620469,
+                586216,
+                604433,
+                604440,
+                604439,
+                586228,
+                604446,
+                604429,
+                604430,
+                620476,
+                586214,
+                586204,
+                586196,
+                586200,
+                586191,
+                620484,
+                620477,
+                620483,
+                586197,
+                586226,
+                586202,
+                364799,
+                586199,
+                586206,
+                586192,
+                586221,
+                586224,
+                586205,
+                586207,
+                586209,
+                586193,
+                586194,
+                586195,
+                586201,
+                586198,
+                628143,
+                620467,
+                620470,
+                620472,
+                620473,
+                620475
+            ]
+        }
+    },
+    "clevertap_object": {
+        "event": "ProductsList",
+        "ec": "ProductsList",
+        "pixel_data": {
+            "event_name": "collection_viewed",
+            "crto_object": {
+                "event": "viewList",
+                "tms": "gtm-criteo-2.0.0",
+                "item": [
+                    604435,
+                    604437,
+                    604431,
+                    604436,
+                    604443,
+                    604480,
+                    604428,
+                    604442,
+                    620468,
+                    620469,
+                    586216,
+                    604433,
+                    604440,
+                    604439,
+                    586228,
+                    604446,
+                    604429,
+                    604430,
+                    620476,
+                    586214,
+                    586204,
+                    586196,
+                    586200,
+                    586191,
+                    620484,
+                    620477,
+                    620483,
+                    586197,
+                    586226,
+                    586202,
+                    364799,
+                    586199,
+                    586206,
+                    586192,
+                    586221,
+                    586224,
+                    586205,
+                    586207,
+                    586209,
+                    586193,
+                    586194,
+                    586195,
+                    586201,
+                    586198,
+                    628143,
+                    620467,
+                    620470,
+                    620472,
+                    620473,
+                    620475
+                ]
+            }
+        }
+    },
+    "labels": [],
+    "x_id": "men-shirts",
+    "plp_version": "v1",
+    "contextual_header": "Men's Shirts",
+    "time_to_exe": 0.2334066509938566
+}

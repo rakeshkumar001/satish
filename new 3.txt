@@ -1,0 +1,11 @@
+==================
+NODE JS LINKS
+=================
+
+https://www.tutorialsteacher.com/nodejs/node-inspector
+https://www.simplilearn.com/tutorials/nodejs-tutorial/getting-started-with-nodejs
+https://www.javascripttutorial.net/nodejs-tutorial/what-is-nodejs/
+https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/
+https://capgemini.udemy.com/course/nodejs-express-mongodb-bootcamp/learn/lecture/15080928#overview
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
+https://nodejs.org/api/fs.html
