@@ -1,0 +1,544 @@
+/* table of content - start
+================================================== */
+/*
+* Project Name   :  Organic - Landing Page Template
+* File           :  CSS Base
+* Version        :  1.0.0
+* Last change    :  01 Jan 2022
+* Author         :  JThemes (https://themeforest.net/user/jthemes)
+* Developer		 :	Imran Hosain
+*/
+/* table of content - end
+================================================== */
+body {
+  line-height: 1.65;
+  font-family: "Roboto", sans-serif;
+  text-rendering: optimizelegibility;
+}
+
+.body_wrap {
+  overflow: hidden;
+  position: relative;
+}
+
+::-moz-selection {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+::selection {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+::-moz-selection {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+iframe {
+  border: none;
+}
+
+a:focus,
+a:active,
+input,
+input:hover,
+input:focus,
+input:active,
+textarea,
+textarea:hover,
+textarea:focus,
+textarea:active {
+  outline: none !important;
+  outline: 0px !important;
+}
+
+img:not([draggable]),
+embed,
+object,
+video {
+  height: auto;
+  max-width: 100%;
+}
+
+img {
+  border: none;
+  height: auto;
+  max-width: 100%;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+
+a {
+  outline: 0;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+a:active, a:focus, a:hover, a:visited {
+  outline: 0;
+  text-decoration: none;
+}
+
+button {
+  padding: 0px;
+  border: none;
+  outline: none;
+  background: none;
+  display: inline-block;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+button:focus {
+  outline: none;
+}
+
+*:focus {
+  outline: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900;
+}
+
+p {
+  font-weight: 400;
+}
+
+.container {
+  max-width: 1300px;
+  padding: 0px 30px;
+}
+
+.container-fluid {
+  max-width: 1715px;
+  padding: 0px 30px;
+}
+
+/* back to top button - start
+================================================== */
+.backtotop {
+  right: 15px;
+  z-index: 999;
+  bottom: 60px;
+  display: none;
+  position: fixed;
+}
+.backtotop .scroll {
+  z-index: 1;
+  width: 40px;
+  height: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-size: 14px;
+  position: relative;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 100%;
+  color: #82c408;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 10px 33.25px 1.75px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 10px 33.25px 1.75px rgba(0, 0, 0, 0.15);
+}
+
+/* back to top button - end
+================================================== */
+.header_sec {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right -240px bottom 64px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  padding: 100px 0px 0px;
+}
+
+.purchase_btn .btn {
+  font-size: 15px;
+  font-weight: 700;
+  border-radius: 100px !important;
+  padding: 13px 25px;
+  background-color: #060606 !important;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  border: 2px solid transparent;
+}
+.purchase_btn .btn:hover {
+  color: #000000 !important;
+  background-color: #ffffff !important;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  border: 2px solid #000000;
+}
+
+.banner_sec_wrap {
+  padding: 100px 0px;
+}
+
+.banner_title {
+  width: 540px;
+}
+.banner_title h1 {
+  color: #272425;
+  font-size: 70px;
+  font-weight: 900;
+}
+
+.banner_btn .btn {
+  font-size: 15px;
+  font-weight: 700;
+  border-radius: 100px !important;
+  padding: 13px 25px;
+  background-color: #060606 !important;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+.banner_btn .btn:hover {
+  color: #000000 !important;
+  background-color: #ffffff !important;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.banner_btn_group {
+  margin-top: 20px;
+}
+.banner_btn_group .btn {
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-right: 20px;
+  padding: 0px 25px 0px 8px;
+  border-radius: 50px;
+}
+.banner_btn_group .btn img {
+  margin-right: 5px;
+}
+
+.homepage_sec {
+  margin: 50px 0px;
+}
+
+.homepage_sec_wrap {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center center;
+     object-position: center center;
+}
+
+@supports (-webkit-text-stroke: 1px #dfdfdf) {
+  .homepage_number span {
+    -webkit-text-stroke: 1px #dfdfdf;
+    -webkit-text-fill-color: white;
+    font-size: 80px;
+    font-weight: 900;
+  }
+}
+.homepage_content {
+  padding: 40px 0px;
+}
+.homepage_content h2 {
+  color: #272425;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.homapage_item {
+  width: 100%;
+  height: 670px;
+  overflow: hidden;
+  border-radius: 30px;
+}
+.homapage_item img {
+  width: 100%;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+.homapage_item a {
+  display: block;
+  overflow: hidden;
+  position: relative;
+}
+.homapage_item.btn {
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  background-color: red;
+}
+.homapage_item:hover img {
+  opacity: 0.4;
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.innerpage_sec {
+  padding-top: 20px;
+}
+
+.innerpage_wrap {
+  padding: 40px 0px;
+}
+
+.innerpage_top_cont .innerpage_top_title {
+  color: #272425;
+  font-size: 50px;
+  font-weight: 900;
+}
+.innerpage_top_cont .innerpage_subtitle {
+  color: #272425;
+  font-size: 18px;
+  font-weight: 400;
+}
+.innerpage_top_cont .innerpage_bottom_title {
+  color: #272425;
+  font-size: 20px;
+  font-weight: 900;
+}
+.innerpage_top_cont .innerpage_bottom_title font {
+  color: #999999;
+  font-weight: 700;
+}
+
+.innerpage_content {
+  height: 435px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: white;
+  margin-right: 8px;
+}
+
+.slide_img {
+  width: 100%;
+  height: 375px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  overflow: hidden;
+  border-radius: 10px;
+}
+.slide_img img {
+  width: 100%;
+}
+
+.slide_img_title {
+  color: #272425;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 20px 0px 0px 20px;
+}
+
+.ss1_left_arrow {
+  content: "";
+  bottom: 30%;
+  left: 150px;
+  width: 40px;
+  height: 40px;
+  background-color: #ffffff;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.ss1_right_arrow {
+  content: "";
+  bottom: 30%;
+  right: 150px;
+  width: 40px;
+  height: 40px;
+  color: white;
+  background-color: #79bd07;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.swatches_wrap {
+  padding: 100px 0px;
+}
+
+.swatches_thumb_item {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.swatches_slide_content .ss2_left_arrow {
+  content: "";
+  bottom: 50%;
+  left: -15px;
+  width: 40px;
+  height: 40px;
+  color: white;
+  background-color: #79bd07;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.swatches_slide_content .ss2_right_arrow {
+  content: "";
+  bottom: 50%;
+  right: -15px;
+  width: 40px;
+  height: 40px;
+  color: white;
+  background-color: #79bd07;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+.swatches_content {
+  margin-left: 15px;
+}
+.swatches_content .swatches_sub_title {
+  color: #a3d269;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+
+.swatches_title {
+  color: #272626;
+  font-size: 65px;
+  font-weight: 900;
+}
+
+.swatches_desc {
+  color: #7c7e7f;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.swatches_btn .btn {
+  background-color: #82c408;
+  border: none !important;
+  border-radius: 30px;
+  padding: 12px 22px;
+  border: 2px solid transparent;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+.swatches_btn .btn:hover {
+  color: #000000;
+  background-color: #ffffff;
+  border: 2px solid #82c408;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.swatches_right_thumb {
+  content: "";
+  bottom: 50px;
+  right: -20px;
+}
+.swatches_right_thumb img {
+  width: 380px;
+}
+
+.footer_sec {
+  padding: 120px 0px;
+  background-color: #161616;
+}
+
+.footer_title {
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 20px;
+}
+
+.footer_desc {
+  color: #8d8d8d;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.footer_btn .btn {
+  font-size: 15px;
+  font-weight: 700;
+  background-color: #82c408;
+  border-radius: 30px;
+  padding: 14px 28px;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+.footer_btn .btn:hover {
+  color: #000000 !important;
+  background-color: #ffffff;
+  -webkit-transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+  transition: 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+/* ================================================== 
+* Project Name   :  Organic Landing Page
+* File           :  Responsive CSS Base
+* Version        :  1.0.0
+* Author         :  JThemes (https://themeforest.net/user/jthemes)
+* Developer		 :	Imran Hosain
+* css code for responsive layout To make Responsive
+
+==================================================
+
+*	1 - media screen and (max-width: 1200px)
+*	2 - media screen and (max-width: 992px)
+*/
+/* ================================================== */
+/* 1 - media screen and (max-width: 1200px) - start */
+/* 2 - media screen and (max-width: 992px) - start */
+@media screen and (max-width: 991px) {
+  .banner_title {
+    margin: auto;
+  }
+  .banner_title h1 {
+    font-size: 50px;
+  }
+
+  .homepage_content h2 {
+    font-size: 40px;
+  }
+
+  .innerpage_top_cont .innerpage_top_title {
+    font-size: 40px;
+  }
+
+  .swatches_content {
+    text-align: center;
+  }
+
+  .swatches_title {
+    font-size: 40px;
+  }
+
+  .swatches_right_thumb {
+    display: none;
+  }
+}

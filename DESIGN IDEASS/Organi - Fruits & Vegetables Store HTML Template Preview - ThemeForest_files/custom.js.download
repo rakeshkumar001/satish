@@ -1,0 +1,145 @@
+// ==================================================
+// * Project Name   :  Organic Landing Page Template
+// * File           :  JS Base
+// * Version        :  1.0.0
+// * Last change    :  01 Jan 2022
+// * Author         :  JThemes (https://themeforest.net/user/jthemes)
+// * Developer      :  Imran Hosain
+// ==================================================
+(function($) {
+  "use strict";
+  
+  // sticky header-1 - start ===============
+  $(window).on('scroll', function () {
+    if ($(this).scrollTop() > 120) {
+      $('.header_bottom_main').addClass("sticky")
+    } else {
+      $('.header_bottom_main').removeClass("sticky")
+    }
+  });
+  // sticky header-1 - end ==================
+  
+  // sticky header-4 - start ===============
+  $(window).on('scroll', function () {
+    if ($(this).scrollTop() > 120) {
+      $('.top_inner_main').addClass("sticky")
+    } else {
+      $('.top_inner_main').removeClass("sticky")
+    }
+  });
+  // sticky header-4 - end ==================
+  
+  // =============== back-to-top start ===============
+  $(window).scroll(function() {
+    if ($(this).scrollTop() > 200) {
+      $('.backtotop:hidden').stop(true, true).fadeIn();
+    } else {
+      $('.backtotop').stop(true, true).fadeOut();
+    }
+  });
+  $(function() {
+    $(".scroll").on('click', function() {
+      $("html,body").animate({scrollTop: 0}, "slow");
+      return false
+    });
+  });
+  // back to top - end
+  
+  var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+  var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+    return new bootstrap.Tooltip(tooltipTriggerEl)
+  })
+  
+  
+  
+  // slick slider-1 start
+  $('.slideshow1_slider').slick({
+    dots: true,
+    speed: 1000,
+    arrows: true,
+    infinite: true,
+    autoplay: true,
+    slidesToShow: 4,
+    pauseOnHover: true,
+    autoplaySpeed: 3000,
+    prevArrow: ".ss1_left_arrow",
+    nextArrow: ".ss1_right_arrow",
+    responsive: [
+      {
+        breakpoint: 575,
+        settings: {
+          slidesToShow: 1
+        }
+      },
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 1025,
+        settings: {
+          slidesToShow: 2
+        }
+      },
+      {
+        breakpoint: 1200,
+        settings: {
+          slidesToShow: 3
+        }
+      },
+      {
+        breakpoint: 1400,
+        settings: {
+          slidesToShow: 4
+        }
+      }
+    ]
+  });
+  
+  // slick slider-2 start
+  $('.slideshow2_slider').slick({
+    dots: true,
+    speed: 1000,
+    arrows: true,
+    infinite: true,
+    autoplay: true,
+    slidesToShow: 1,
+    pauseOnHover: true,
+    autoplaySpeed: 3000,
+    prevArrow: ".ss2_left_arrow",
+    nextArrow: ".ss2_right_arrow",
+    responsive: [
+      {
+        breakpoint: 576,
+        settings: {
+          slidesToShow: 1
+        }
+      },
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 1
+        }
+      },
+      {
+        breakpoint: 1025,
+        settings: {
+          slidesToShow: 1
+        }
+      },
+      {
+        breakpoint: 1200,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
+    
+  });
+  
+  
+  
+})(jQuery);
+
