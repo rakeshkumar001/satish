@@ -1,0 +1,120 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-2xl;
+  }
+
+  h2 {
+    @apply text-xl;
+  }
+
+  h3 {
+    @apply text-lg;
+  }
+
+}
+
+@layer components {
+  .elementGradient {
+    @apply bg-gradient-to-r from-orange-500 to-red-500;
+  }
+
+  .titleGradient {
+    @apply bg-gradient-to-r from-yellow-500 to-transparent;
+  }
+
+  .boxWrapper {
+    @apply bg-white dark:bg-slate-700 rounded-lg h-full w-full shadow-md
+  }
+
+  .showAtCenter {
+    @apply flex justify-center items-center;
+  }
+
+  .boxShadow {
+    @apply shadow-md shadow-gray-700/50
+  }
+
+  .glassEffect {
+    @apply bg-white rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-60 dark:bg-opacity-50 border border-gray-100
+  }
+
+  // p, span, a {
+  //   @apply text-gray-600 dark:text-gray-400 hover:text-orange-500
+  // }
+
+  .separator {
+    @apply h-[1px] border-t-0 bg-transparent bg-gradient-to-r from-transparent via-white to-transparent opacity-60 dark:opacity-100 my-3
+  }
+
+  .hoverScale {
+    @apply hover:scale-105 transition-transform ease-in-out duration-200 hover:shadow-md hover:cursor-pointer
+  }
+}
+
+@layer utilities {
+  .filter-none {
+    filter: none;
+  }
+
+  .filter-grayscale {
+    filter: grayscale(100%);
+  }
+}
+
+@layer components {
+  .elevatedShadow {
+    box-shadow: 0px 10px 10px -5px #1b1b1b63;
+  }
+
+}
+
+body {
+  overflow: hidden;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// CUSTOM SCROLLBAR
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: orangered;
+  border-radius: 10px;
+}
+
+// SWIPER CAROUSEL/SLIDER CSS
+.swiper {
+  width: 100vw;
+  height: 100vh;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  height: calc(100vh - 100px);
+  width: 100%;
+}
+
+.swiper-pagination-bullet-active-main {
+  background-color: #f97316 !important;
+}
