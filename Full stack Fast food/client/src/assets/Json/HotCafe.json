@@ -1,0 +1,562 @@
+[
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Our signature BK Café Coffee with Hot Water.",
+        "entity_id": "P::1755116",
+        "food_type": "veg",
+        "id": "2464c4a2fb53458b8a2865de078c6efc",
+        "image_url": "/HotCafe/Americano (Small).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Americano (Small)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066894",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 139,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Our signature BK Café Coffee with steamed milk & milk froth.",
+        "entity_id": "P::1755118",
+        "food_type": "veg",
+        "id": "e5a764d37f774d23adf695c2c99ae9c8",
+        "image_url": "/HotCafe/Cappuccino (Small).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Cappuccino (Small)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066896",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 159,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Our signature BK Café Coffee with Hot Water.",
+        "entity_id": "P::1755117",
+        "food_type": "veg",
+        "id": "6c1d064d5b92485a9eaf3e387a86f024",
+        "image_url": "/HotCafe/Americano (Regular).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Americano (Regular)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066895",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 169,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Espresso with steamed milk & milk froth",
+        "entity_id": "P::1755119",
+        "food_type": "veg",
+        "id": "9d5ac502156e45a998ce7a183c349ae1",
+        "image_url": "/HotCafe/Cappuccino (Regular).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Cappuccino (Regular)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066897",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 189,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Our signature BK Café Coffee with steamed milk.",
+        "entity_id": "P::1755120",
+        "food_type": "veg",
+        "id": "14147a1cb3dd45efb50cb03c5da4090e",
+        "image_url": "/HotCafe/Cafe Latte (Small).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Cafe Latte (Small)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066898",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 159,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Our signature BK Café Coffee with steamed milk.",
+        "entity_id": "P::1755121",
+        "food_type": "veg",
+        "id": "7fa26df2f07a4236909b588884e335dc",
+        "image_url": "/HotCafe/Cafe Latte (Regular).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Cafe Latte (Regular)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066899",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 189,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Our signature BK Café Coffee with Rich Chocolate Flavour",
+        "entity_id": "P::1755123",
+        "food_type": "veg",
+        "id": "8d86cbf5580941119fc40b9e0a531a76",
+        "image_url": "/HotCafe/Mocha Cappuccino (Small).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Mocha Cappuccino (Small)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066901",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 199,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Our signature BK Café Coffee with Rich Chocolate Flavour",
+        "entity_id": "P::1755124",
+        "food_type": "veg",
+        "id": "96537bdeb8f34de5ae20c77abb787b4d",
+        "image_url": "/HotCafe/Mocha Cappuccino (Regular).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Mocha Cappuccino (Regular)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066902",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 229,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "The chocolate which you can drink. Rich Creamy Chocolate with steamed milk.",
+        "entity_id": "P::1755136",
+        "food_type": "veg",
+        "id": "540c8d8b43d44f4a8dc24f2392bbc48e",
+        "image_url": "/HotCafe/Hot Chocolate.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Hot Chocolate",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2066914",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 179,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "Masala Chai",
+        "entity_id": "P::1838050",
+        "food_type": "veg",
+        "id": "1d5a8b772ae5496ea827cdaee6a0c120",
+        "image_url": "/HotCafe/Masala Chai.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Masala Chai",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2165080",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 109,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    }
+]

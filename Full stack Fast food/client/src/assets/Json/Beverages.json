@@ -1,0 +1,393 @@
+[
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": null,
+        "entity_id": "P::1467232",
+        "food_type": "veg",
+        "id": "6641c225253446cba67442d5943cc605",
+        "image_url": "/Beverages/Medium Soft Drink (Cola).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Medium Soft Drink (Cola)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/RegularPepsi.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/RegularPepsi.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728623",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 95,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": null,
+        "entity_id": "P::1847848",
+        "food_type": "veg",
+        "id": "b53b1c4eb51d464f987ede4cb777f8cf",
+        "image_url": "/Beverages/Medium Soft Drink (Ice Tea).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Medium Soft Drink (Ice Tea)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2176385",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 95,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": "Our signature chocolate thick shake.",
+        "entity_id": "P::1467236",
+        "food_type": "veg",
+        "id": "27da58f4cfc84bca9fcacc9fa70346bd",
+        "image_url": "/Beverages/Chocolate Thickshake.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Chocolate Thick Shake",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/ChocolateThickShake.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/ChocolateThickShake.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728627",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 189,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": "Our signature mango thick shake.",
+        "entity_id": "P::1467238",
+        "food_type": "veg",
+        "id": "48dbbaea41954ba897dabb8ea4e0c2df",
+        "image_url": "/Beverages/Mango Thick Shake.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Mango Thick Shake",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/MangoThickShake.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/MangoThickShake.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728629",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 189,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": null,
+        "entity_id": "P::1718246",
+        "food_type": "veg",
+        "id": "6070ca1a58774168a53244103f770c6e",
+        "image_url": "/Beverages/Berry Blast Thickshake.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Berry Blast Thick Shake",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2024068",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 189,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": null,
+        "entity_id": "P::1847847",
+        "food_type": "veg",
+        "id": "2b198d7d4efe42cc98d9114373f10396",
+        "image_url": "/Beverages/Medium Soft Drink (Lemon).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Medium Soft Drink (Lemon)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2176384",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 95,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Beverages",
+        "description": null,
+        "entity_id": "P::1847849",
+        "food_type": "veg",
+        "id": "41e7fadb059142d299863f135e0e184f",
+        "image_url": "/Beverages/Medium Soft Drink (Clear).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Medium Soft Drink (Clear)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2176386",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 95,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    }
+]

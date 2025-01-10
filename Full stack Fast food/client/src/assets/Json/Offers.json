@@ -1,0 +1,57 @@
+[
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "BK Cafe",
+        "description": "New Softer and Fluffier buttery vanilla cake topped with chocolate chips.",
+        "entity_id": "P::1871085",
+        "food_type": "nonveg",
+        "id": "a57151ed10bd450299c61d958d456cf5",
+        "image_url": "/Desserts/Vanilla_Chocolate_Muffin.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Crispy Veg Burger+Fries(M)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "dish",
+            "non-veg"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2203619",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 129,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "redirectLink": "home",
+        "_iconName": "home",
+        "text": "Home"
+    },
+    {
+        "id": 2,
+        "redirectLink": "menu",
+        "_iconName": "menu",
+        "text": "Menu"
+    },
+    {
+        "id": 3,
+        "redirectLink": "cart",
+        "_iconName": "cart",
+        "text": "Cart"
+    },
+    {
+        "id": 4,
+        "redirectLink": "order_history",
+        "_iconName": "history",
+        "text": "History"
+    },
+    {
+        "id": 5,
+        "redirectLink": "contact",
+        "_iconName": "contact",
+        "text": "Contact"
+    },
+    {
+        "id": 6,
+        "redirectLink": "blog",
+        "_iconName": "blog",
+        "text": "Blog"
+    },
+    {
+        "id": 7,
+        "redirectLink": "faq",
+        "_iconName": "faq",
+        "text": "Faq"
+    },
+    {
+        "id": 8,
+        "redirectLink": "logout",
+        "_iconName": "logout",
+        "text": "Logout"
+    }
+]

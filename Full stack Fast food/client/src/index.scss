@@ -1,0 +1,165 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-2xl;
+  }
+
+  h2 {
+    @apply text-xl;
+  }
+
+  h3 {
+    @apply text-lg;
+  }
+
+}
+
+@layer components {
+  .elementGradient {
+    @apply bg-gradient-to-r from-orange-500 to-red-500;
+  }
+
+  .titleGradient {
+    @apply bg-gradient-to-r from-yellow-500 to-transparent;
+  }
+
+  .baseBox {
+    @apply bg-white dark:bg-slate-700 rounded-lg h-full w-full shadow-md
+  }
+  .showAtCenter{
+    @apply flex justify-center items-center;
+  }
+}
+
+@layer utilities {
+  .filter-none {
+    filter: none;
+  }
+
+  .filter-grayscale {
+    filter: grayscale(100%);
+  }
+}
+
+body {
+  overflow: hidden;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// CUSTOM SCROLLBAR
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: orangered;
+  border-radius: 10px;
+}
+
+// SWIPER CAROUSEL/SLIDER CSS
+.swiper {
+  width: 100vw;
+  height: 100vh;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  height: calc(100vh - 100px);
+  width: 100%;
+}
+
+.swiper-pagination-bullet-active-main {
+  background-color: #f97316 !important;
+}
+
+.ribbon {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  position: relative;
+  left: -22px;
+  z-index: inherit;
+}
+
+.text {
+  display: inline-block;
+  padding: 0.2em 1em;
+  line-height: 1.2em;
+  background: #FFD72A;
+  position: relative;
+  z-index: 3;
+}
+
+.ribbon:after,
+.ribbon:before,
+.text:before,
+.text:after,
+.bold:before {
+  content: '';
+  position: absolute;
+  border-style: solid;
+}
+
+.ribbon:before {
+  top: 7px;
+  left: 0.2em;
+  width: 100%;
+  height: 60%;
+  border: none;
+  background: #EBECED;
+  z-index: 0;
+}
+
+.dark .ribbon:before {
+  background: #6c6c6c;
+}
+
+.text:before {
+  bottom: 100%;
+  left: 0;
+  border-width: .5em .7em 0 0;
+  border-color: transparent #FC9544 transparent transparent;
+}
+
+.text:after {
+  top: 100%;
+  right: 0;
+  border-width: .5em 2em 0 0;
+  border-color: #FC9544 transparent transparent transparent;
+}
+
+.ribbon:after,
+.bold:before {
+  top: 0.5em;
+  right: -2em;
+  border-width: 0.8em 1em 0.8em 3em;
+  border-color: #FECC30 transparent #FECC30 #FECC30;
+  z-index: 0;
+}
+
+.bold:before {
+  border-color: red transparent red red;
+  top: 20em;
+  right: 1.3em;
+  z-index: 0;
+  position: relative;
+}

@@ -1,0 +1,670 @@
+[
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "The perfect crispy partner.",
+        "entity_id": "P::1467327",
+        "food_type": "veg",
+        "id": "b6432db7959649688b6b1ed163244baa",
+        "image_url": "/Sides/Fries (King).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Fries (King)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/RegularFries.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/RegularFries.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728723",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 130,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": null,
+        "entity_id": "P::1849016",
+        "food_type": "veg",
+        "id": "1dd8bae0b4be41a68a9cbfffecff9e51",
+        "image_url": "/Sides/Peri Peri Spice Mix.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Peri Peri Spice Mix",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2177746",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 28.57,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "The perfect crispy partner.",
+        "entity_id": "P::1467326",
+        "food_type": "veg",
+        "id": "4425b70dd8e6446bbaa3d1e99bc07dc9",
+        "image_url": "/Sides/Fries (Medium).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Fries (Medium)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/RegularFries.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/RegularFries.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728722",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 115,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "Chefs Special Spicy Sauce",
+        "entity_id": "P::1734730",
+        "food_type": "veg",
+        "id": "5d03938529f244bb9bb2d467cda406fd",
+        "image_url": "/Sides/Fiery Hell Dip.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Fiery Hell Dip",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2043412",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 23.81,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "Cheese & Jalapeno Sauce",
+        "entity_id": "P::1734731",
+        "food_type": "veg",
+        "id": "37efcdafbec8413baafde2fcb23bf752",
+        "image_url": "/Sides/Easy Cheesy Dip.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Easy Cheesy Dip",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2043413",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 23.81,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "Crispy french fries, loads of cheese, yum!",
+        "entity_id": "P::1467339",
+        "food_type": "veg",
+        "id": "9dbde0bd30e74ef089d17cf8ef2a8524",
+        "image_url": "/Sides/Cheesy Fries.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Cheesy Fries",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/CheesyFries.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/CheesyFries.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728735",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 145,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "The lip-smacking duo of creamy classic mayo and tangy tomato(seasonal) herb mayo make these fries very hard to resist!",
+        "entity_id": "P::1467340",
+        "food_type": "veg",
+        "id": "8a260b34635f4cdca58c5b09b65dd52a",
+        "image_url": "/Sides/Creamy Italian Fries.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Creamy Italian Fries",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/CreamyItalianFries.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/CreamyItalianFries.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728736",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 139,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 1,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "Vegetarian's favourite finger food.",
+        "entity_id": "P::1467337",
+        "food_type": "veg",
+        "id": "41c73dd2b33e4e3a91a1a0281205b7f6",
+        "image_url": "/Sides/Veggie Strips - 5 Pcs.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Veggie Strips - 5 Pcs",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/VeggieStrips5Pc.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/VeggieStrips5Pc.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728733",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 59,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "Veggie Strips(5Pcs) + Easy Cheesy Dip",
+        "entity_id": "P::1735778",
+        "food_type": "veg",
+        "id": "6d07bab1677246b58874fc8810ecc072",
+        "image_url": "/Sides/Veggie Strips(5Pcs) + 1 Dip.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Veggie Strips(5Pcs) + 1 Dip",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/products/Home/ml/2xmlPlaceholder262x360HomePagejpg",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::2044648",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 72.81,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "Crispy fries with peri peri spice. Hot indeed",
+        "entity_id": "P::1467330",
+        "food_type": "veg",
+        "id": "d66315d55efa4d2798f3a49a6d4fa94e",
+        "image_url": "/Sides/Peri Peri Fries (King).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Peri Peri Fries (King)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/RegularPeriPeriFries.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/RegularPeriPeriFries.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728726",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 159,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "Crispy fries with peri peri spice. Hot indeed",
+        "entity_id": "P::1467329",
+        "food_type": "veg",
+        "id": "e9588f903b7a47fb97e473ec927c1a6d",
+        "image_url": "/Sides/Peri Peri Fries (Medium).png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": true,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Peri Peri Fries (Medium)",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/RegularPeriPeriFries.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/RegularPeriPeriFries.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "veg",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728725",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 144,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    },
+    {
+        "addons_quantity": 0,
+        "cart_item_id": "",
+        "cart_quantity": 0,
+        "category_name": "Sides",
+        "description": "What every potato wants to be.",
+        "entity_id": "P::1467343",
+        "food_type": "veg",
+        "id": "75daeda72b2a45f6a3d7522f3f34d0e9",
+        "image_url": "/Sides/Hashbrown.png",
+        "in_stock": true,
+        "is_addon": true,
+        "is_addon_added": false,
+        "is_combo": false,
+        "is_customise": false,
+        "is_has_addons": true,
+        "max_qty": null,
+        "min_qty": null,
+        "name": "Hashbrown",
+        "offset": 75,
+        "order": null,
+        "page_no": 1,
+        "pdp_image_url": "https://d1rgpf387mknul.cloudfront.net/345/Hashbrown.png",
+        "plp_image_url": "https://d1rgpf387mknul.cloudfront.net/164/Hashbrown.png",
+        "price": null,
+        "product_addons": [],
+        "product_type": "delivery",
+        "service": null,
+        "tags": [
+            "services",
+            "recommended",
+            "veg",
+            "combo",
+            "dish"
+        ],
+        "taxes": [
+            "SGST_D_P_2.50",
+            "CGST_D_P_2.50"
+        ],
+        "variant_category": [
+            {
+                "name": "",
+                "variants": [
+                    {
+                        "addons": [],
+                        "entity_id": "PV::1728739",
+                        "is_takeway_support": false,
+                        "name": "",
+                        "price": 49,
+                        "service": "delivery",
+                        "takeaway_price": null
+                    }
+                ]
+            }
+        ],
+        "variants_quantity": 1
+    }
+]
