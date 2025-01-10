@@ -1,0 +1,234 @@
+/* These font can be combined to one in google font */
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .threeD_card {
+        /* box-shadow: 20px 20px 20px #D1D9E6, 20px 20px 20px #ffffff; */
+        box-shadow: -6px -6px 14px rgb(255 255 255 / 70%),
+            -6px -6px 10px rgb(255 255 255 / 50%),
+            6px 6px 8px rgb(255 255 255 / 8%),
+            6px 6px 10px rgb(0 0 0 / 15%);
+    }
+
+    .bg-card {
+        background: linear-gradient(145deg, #e2e8ec, #ffffff);
+    }
+
+    .App {
+        background: #ecf0f3;
+        height: 100vh;
+        width: 100vw;
+    }
+
+    .my_dropShadow {
+        filter: drop-shadow(10px 15px 5px #0000006e)
+    }
+
+    body {
+        color: #333333
+    }
+
+    .textGradient {
+        background: -webkit-linear-gradient(45deg, #6437a0 0%, #ff014f 45%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+* {
+    /* outline: auto; */
+}
+
+/* NEUMORPHISIM BUTTON EXAMPLE */
+button,
+input,
+textarea {
+    background: linear-gradient(145deg, #e2e8ec, #ffffff);;
+    border: none;
+    text-align: center;
+    outline: none;
+    cursor: pointer;
+    transition: .2s ease-in-out;
+    box-shadow: -6px -6px 14px rgba(255, 255, 255, .7),
+        -6px -6px 10px rgba(255, 255, 255, .5),
+        6px 6px 8px rgba(255, 255, 255, .075),
+        6px 6px 10px rgba(0, 0, 0, .15);
+    transition: all linear 0.2s;
+    font-size: 0.8rem;
+
+}
+textarea::placeholder{
+    font-size: 0.8rem;
+}
+button.primaryBtn {
+    background: linear-gradient(45deg, #6437a0, #ff014f);
+    color: #fff !important;
+}
+
+button:hover {
+    box-shadow: -2px -2px 6px rgba(255, 255, 255, .6),
+        -2px -2px 4px rgba(255, 255, 255, .4),
+        2px 2px 2px rgba(255, 255, 255, .05),
+        2px 2px 4px rgba(0, 0, 0, .1);
+    opacity: 0.8;
+    /* background: linear-gradient(45deg, #6437a0, #ff014f); */
+    /* color: #fff !important; */
+    transition: all linear 0.2s;
+
+}
+
+button:active {
+    box-shadow: inset -2px -2px 6px rgba(255, 255, 255, .7),
+        inset -2px -2px 4px rgba(255, 255, 255, .5),
+        inset 2px 2px 2px rgba(255, 255, 255, .075),
+        inset 2px 2px 4px rgba(0, 0, 0, .15);
+}
+
+button:focus {
+    outline: none;
+}
+
+/* SPEECH BUBBLE */
+.speech-bubble {
+    border: 3px solid #6437a0;
+    padding: 20px;
+    border-radius: 10px;
+    color: #6437a0;
+    background: white;
+}
+
+.speech-bubble:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border: 2em solid transparent;
+    border-top-color: #fff;
+    border-bottom: 0;
+    border-right: 0;
+    margin-left: -1.2em;
+    margin-bottom: -1.57em;
+}
+
+.speech-bubble:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border: 2em solid transparent;
+    border-top-color: #6437a0;
+    border-bottom: 0;
+    border-right: 0;
+    margin-left: -1em;
+    margin-bottom: -2em;
+}
+
+@media only screen and (max-width:900px) {
+    .speech-bubble {
+        padding: 10px;
+        font-size: 10px;
+    }
+
+    .contactUsScreen>div {
+        background: linear-gradient(45deg, #6437a0, #ff014f);
+
+    }
+}
+
+/* INFO */
+.my_info h1 {
+    text-shadow: 4px 4px 0px #00000026;
+}
+
+/* SCROLLBAR */
+.main_body::-webkit-scrollbar {
+    width: 0em;
+}
+
+.main_body::-webkit-scrollbar-track {
+    box-shadow: none;
+}
+
+.main_body::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    outline: 1px solid transparent;
+}
+
+/* SIDEBAR */
+
+main {
+    display: flex;
+}
+
+aside {
+    width: 18.75rem;
+    height: 100vh;
+}
+
+.container {
+    padding: 70px 0 0;
+}
+
+.sideBarMenu:hover {
+    box-shadow: -6px -6px 14px rgb(255 255 255 / 70%), -6px -6px 10px rgb(255 255 255 / 50%), 6px 6px 8px rgb(255 255 255 / 8%), 6px 6px 10px rgb(0 0 0 / 15%);
+    border-radius: 10px;
+    padding: 0 10px;
+}
+
+.btn-container {
+    position: fixed;
+}
+
+.container .sideBarMenu {
+    color: #f9fafb;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    display: block;
+    margin: 20px;
+    position: relative;
+    z-index: 20;
+    transition: all linear 0.1s;
+}
+
+.container .sideBarMenu:hover {
+    padding: 5px 10px 5px 20px ;
+    font-size: 1.1rem;
+    transition: all linear 0.1s;
+}
+
+button {
+    cursor: pointer;
+    margin: 1rem;
+    border: none;
+    padding: 0.5rem 1rem;
+    background-color: #f9fafb;
+}
+/* PLACEHOLDER */
+::-webkit-scrollbar {
+    height: 12px;
+    width: 5px;
+    background: var(--background);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: var(--grey);
+    border-radius: 1ex;
+    -webkit-border-radius: 1ex;
+  }
+  
+  ::-webkit-scrollbar-corner {
+    background: var(--background);
+  }

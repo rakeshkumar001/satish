@@ -1,0 +1,192 @@
+// FLOATING CIRCLE BACKGROUND
+.circles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  z-index: 15;
+  overflow: hidden;
+
+  li {
+    position: absolute;
+    display: block;
+    list-style: none;
+    width: 20px;
+    height: 20px;
+    background: #ff014d30;
+    animation: animate 5s linear infinite;
+    bottom: -150px;
+    filter: blur(3px);
+
+    &:nth-child(1) {
+      left: 25%;
+      width: 80px;
+      height: 80px;
+      animation-delay: 0s;
+    }
+  }
+
+  &.loading_screen li {
+    background: #ff014d45;
+    filter: blur(5px);
+  }
+
+
+}
+
+
+.circles li:nth-child(2) {
+  left: 10%;
+  width: 150px;
+  height: 150px;
+  animation-delay: 0s;
+  animation-duration: 8s;
+}
+
+.circles li:nth-child(3) {
+  left: 70%;
+  width: 20px;
+  height: 20px;
+  animation-delay: 4s;
+}
+
+.circles li:nth-child(4) {
+  left: 40%;
+  width: 60px;
+  height: 60px;
+  animation-delay: 0s;
+  animation-duration: 15s;
+}
+
+.circles li:nth-child(5) {
+  left: 65%;
+  width: 20px;
+  height: 20px;
+  animation-delay: 0s;
+}
+
+.circles li:nth-child(6) {
+  left: 75%;
+  width: 110px;
+  height: 110px;
+  animation-delay: 2s;
+}
+
+.circles li:nth-child(7) {
+  left: 35%;
+  width: 150px;
+  height: 150px;
+  animation-delay: 1s;
+}
+
+.circles li:nth-child(8) {
+  left: 50%;
+  width: 45px;
+  height: 45px;
+  animation-delay: 0s;
+  animation-duration: 4s;
+}
+
+.circles li:nth-child(9) {
+  left: 20%;
+  width: 15px;
+  height: 15px;
+  animation-delay: 2s;
+  animation-duration: 6s;
+}
+
+.circles li:nth-child(10) {
+  left: 85%;
+  width: 150px;
+  height: 150px;
+  animation-delay: 0s;
+  animation-duration: 5s;
+}
+
+
+
+@keyframes animate {
+
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+    border-radius: 0%;
+  }
+
+  100% {
+    transform: translateY(-1000px) rotate(720deg);
+    opacity: 0;
+    border-radius: 100%;
+  }
+
+}
+
+
+@mixin on-circle($item-count, $circle-size, $item-size) {
+  position: relative;
+  width: $circle-size;
+  height: $circle-size;
+  border-radius: 50%;
+  padding: 0;
+  list-style: none;
+  right: -200px;
+  top: -50px;
+
+  // >* {
+  //   display: block;
+  //   position: absolute;
+  //   top: 50%;
+  //   left: 50%;
+  //   margin: -($item-size / 2);
+  //   width: $item-size;
+  //   height: $item-size;
+
+  //   $angle: (360 / $item-count);
+  //   $rot: 0;
+
+  //   @for $i from 1 through $item-count {
+  //     &:nth-of-type(#{$i}) {
+  //       transform: rotate($rot * 1deg) translate($circle-size / 2) rotate($rot * -1deg);
+  //     }
+
+  //     $rot: $rot + $angle;
+  //   }
+  // }
+}
+
+// POSITION MENU ITEMS IN CIRCULAR
+
+.circle-container {
+  @include on-circle($item-count: 8, $circle-size: 20em, $item-size: 6em);
+  // border: solid 5px tomato;
+}
+
+@media only screen and (max-width:900px) {
+  .circle-container {
+    left: 0px;
+    top: 100px;
+    margin: 0;
+    height: 100%;
+    min-height: 250px;
+    width: 100%;
+    li{
+      position: absolute;
+      width: 100%;
+    }
+    button{
+      margin: 0;
+      // width: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
+@media only screen and (max-width:900px) {
+  .circle-container {
+    top: 30px;
+  }
+}
